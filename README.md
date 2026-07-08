@@ -1,4 +1,5 @@
-<h1 align="center">Think. Build. Ship. This is Tarun</h1>
+<h1 align="center">Think. Build. Ship.</h1>
+<h2 align="center">I'm Tarun Kumar Sahu </h2>
 <h3 align="center">Computer Science Student | Java | Backend | DSA | AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetarunsahu&label=Profile%20views&color=0e75b6&style=flat" alt="thetarunsahu" /> </p>
