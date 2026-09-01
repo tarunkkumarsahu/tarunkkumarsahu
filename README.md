@@ -61,40 +61,6 @@ currently_learning:
 philosophy: "Learn deeply. Build practically. Ship consistently."
 ```
 
----
-
-## `> current_mission`
-
-<div align="center">
-
-```text
-                     CURRENT OBJECTIVE
-
-                          TARUN
-                            │
-              ┌─────────────┼─────────────┐
-              │             │             │
-              ▼             ▼             ▼
-
-          SOFTWARE          DSA           AI
-         ENGINEERING                    ENGINEERING
-              │             │             │
-              ▼             ▼             ▼
-
-           Backend       Problem       GenAI / Agents
-           Systems       Solving       Deep Learning
-              │             │             │
-              └─────────────┼─────────────┘
-                            │
-                            ▼
-                    BUILD REAL PRODUCTS
-                        
-```
-
-</div>
-
----
-
 # `> engineering_stack`
 
 ### `CORE //`
@@ -280,46 +246,6 @@ I build experiments around:
 </td>
 </tr>
 </table>
-
----
-
-# `> jarvis_project`
-
-<div align="center">
-
-### My long-term engineering experiment
-
-```text
-                          JARVIS
-                             │
-              ┌──────────────┼──────────────┐
-              │              │              │
-              ▼              ▼              ▼
-            MEMORY          AGENTS         TOOLS
-              │              │              │
-              │        ┌─────┼─────┐        │
-              │        │     │     │        │
-              ▼        ▼     ▼     ▼        ▼
-
-           CONTEXT    CODE   UI   RESEARCH  SYSTEM
-              │                         │
-              └─────────────┬───────────┘
-                            │
-                            ▼
-                         EXECUTE
-                            │
-                            ▼
-                         VERIFY
-                            │
-                            ▼
-                         REMEMBER
-```
-
-### `JARVIS is not the model.`
-
-### `JARVIS is the system that decides how intelligence gets used.`
-
-</div>
 
 ---
 
