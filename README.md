@@ -87,12 +87,8 @@ philosophy: "Learn deeply. Build practically. Ship consistently."
               └─────────────┼─────────────┘
                             │
                             ▼
-
                     BUILD REAL PRODUCTS
-                            │
-                            ▼
-
-                    INTERNSHIP READY
+                        
 ```
 
 </div>
