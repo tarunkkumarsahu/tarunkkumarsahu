@@ -3,14 +3,14 @@
             GitHub Profile // Developer Console
 =========================================================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0F172A,100:00E5FF&text=TARUN%20KUMAR%20SAHU&fontColor=E6FBFF&fontSize=44&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20BACKEND%20%E2%80%A2%20AI&descAlignY=56&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0F172A,100:00E5FF&text=TARUN%20KUMAR%20SAHU&fontColor=E6FBFF&fontSize=44&fontAlignY=35&desc=AI%20%E2%80%A2%20SOFTWARE%20ENGINEERING%20%E2%80%A2%20AGENTIC%20SYSTEMS&descAlignY=56&descSize=16&animation=fadeIn"/>
 
 <div align="center">
 
 ### `// THINK. BUILD. SHIP.`
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer+in+the+making.;Building+software+that+solves+real+problems.;Backend+Engineering+%2B+Applied+AI.;Learning+systems.+Building+products.+Shipping+ideas.;One+commit+closer+every+day."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Computer+Science+student+building+real-world+systems.;AI+agents+%E2%80%A2+Software+Engineering+%E2%80%A2+Robotics.;Turning+ideas+and+hackathon+prototypes+into+working+systems.;Learning+deeply.+Building+practically.+Shipping+consistently."
   alt="Typing SVG"
 />
 
@@ -32,108 +32,151 @@
 
 ---
 
-## `> whoami`
+# `> whoami`
 
 ```yaml
 name: Tarun Kumar Sahu
 
 role:
   - Computer Science Student
-  - Software Engineer in Progress
-  - Backend Developer
-  - Applied AI Builder
+  - AI & Software Builder
 
-focus:
-  - Data Structures & Algorithms
-  - Backend Engineering
-  - Artificial Intelligence
-  - Building Real-World Products
+interests:
+  - Agentic AI
+  - Software Engineering
+  - Computer Vision
+  - Robotics & Edge AI
 
 currently_learning:
   - Java
-  - DSA
+  - Data Structures & Algorithms
   - Spring Boot
   - SQL & Databases
   - System Design
   - Generative AI
-  - Agentic AI
+  - Multi-Agent Systems
+
+goal:
+  - Build reliable software systems
+  - Strengthen engineering fundamentals
+  - Convert prototypes into real products
 
 philosophy: "Learn deeply. Build practically. Ship consistently."
 ```
 
-# `> engineering_stack`
-
-### `CORE //`
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,c" />
-</p>
-
-### `BACKEND //`
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,postgres,mysql" />
-</p>
-
-```text
-Java
-└── Spring Boot
-    ├── REST APIs
-    ├── Authentication
-    ├── Database Systems
-    └── Scalable Backend Architecture
-```
-
-### `AI //`
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
-</p>
-
-```text
-Python
-├── Machine Learning
-├── Deep Learning
-├── Computer Vision
-├── Generative AI
-└── Agentic AI
-```
-
-### `ENGINEERING TOOLS //`
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,idea" />
-</p>
-
-### `WEB //`
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### `HARDWARE // PROJECT BASED`
-
-<p>
-<img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
-```text
-ESP32 • Sensors • IoT • Robotics • Computer Vision Hardware
-```
-
 ---
 
-# `> featured_systems`
+# `> featured_projects`
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🤖 JARVIS OS
+### 🤖 RELIAI
 
-**Personal AI Operating Layer**
+**Multi-Agent Industrial AI Investigation System**
 
-An experimental AI system being built to go beyond a traditional chatbot.
+Built during the **AI Tinkerers × Michelin Harness Engineering Hackathon**, where our team finished in the **Top 10**.
+
+ReliAI explores how AI-assisted industrial decisions can become more reliable through:
+
+```text
+Industrial Incident
+        ↓
+Specialized AI Agents
+        ↓
+Independent Investigation
+        ↓
+Adversarial Critic
+        ↓
+Confidence Assessment
+        ↓
+Human Approval
+```
+
+**Focus Areas**
+
+- Multi-Agent Systems
+- Adversarial Validation
+- Confidence Assessment
+- Human-in-the-Loop AI
+- Industrial AI Reliability
+- Explainable Decision Support
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌍 CLIMATE DIGITAL TWIN
+
+**AI-Powered Environmental Intelligence System**
+
+Developed during the **Bharatiya Antariksh Hackathon**.
+
+The project explored the use of AI, environmental data and intelligent analysis to create a digital representation of changing environmental conditions.
+
+```text
+Environmental Data
+        ↓
+Data Processing
+        ↓
+AI Analysis
+        ↓
+Digital Twin
+        ↓
+Insights
+```
+
+**Focus Areas**
+
+- Artificial Intelligence
+- Data Analysis
+- Environmental Intelligence
+- Visualization
+- Decision Support
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🦾 AWR-BOT
+
+**AI + Robotics Prototype**
+
+A robotics project developed during SIH work, exploring intelligent control, software-hardware integration and real-world robotic workflows.
+
+```text
+Sensors / Inputs
+       ↓
+Processing
+       ↓
+Control Logic
+       ↓
+Robot System
+       ↓
+Physical Action
+```
+
+The project reflects my interest in building software that can interact with the physical world.
+
+<a href="https://github.com/thetarunsahu/AWR-Bot">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-AWR_BOT-00E5FF?style=for-the-badge&labelColor=020617"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 JARVIS OS
+
+**Ongoing Personal AI R&D**
+
+An experimental personal AI operating layer designed to move beyond a traditional chatbot.
 
 ```text
 User
@@ -151,16 +194,16 @@ Tools
 Execution
 ```
 
-Designed toward:
+Currently exploring:
 
-- Local + Cloud AI
-- Model Routing
 - AI Agents
-- Memory
+- Local + Cloud Models
+- Memory Systems
 - File Intelligence
+- Tool Execution
 - Desktop Interaction
-- Background Tasks
-- Voice Interaction
+- Voice Interfaces
+- Automation
 
 <a href="https://github.com/thetarunsahu/Jarvis-OS">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-JARVIS_OS-00E5FF?style=for-the-badge&labelColor=020617"/>
@@ -168,115 +211,125 @@ Designed toward:
 
 </td>
 
-<td width="50%" valign="top">
-
-### 🌐 PERSONAL PORTFOLIO
-
-**My Digital Engineering Space**
-
-A continuously evolving personal portfolio focused on projects, engineering work and experiments.
-
-```text
-Ideas
-  ↓
-Design
-  ↓
-Engineering
-  ↓
-Deployment
-```
-
-Built to become more than a static résumé.
-
-<a href="https://github.com/thetarunsahu/My-Portfolio">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-PORTFOLIO-00E5FF?style=for-the-badge&labelColor=020617"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🦾 SMART SAFETY WRISTBAND
-
-A hardware + software system exploring wearable safety technology.
-
-```text
-Sensors
-   ↓
-Microcontroller
-   ↓
-Data Processing
-   ↓
-Software
-```
-
-<a href="https://github.com/thetarunsahu/Smart-Safety-Wristband">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-SAFETY_WRISTBAND-00E5FF?style=for-the-badge&labelColor=020617"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧪 EXPERIMENTAL BUILDS
-
-Not every project needs to become a startup.
-
-Some exist because:
-
-```text
-"What happens if I try this?"
-```
-
-I build experiments around:
-
-- Computer Vision
-- IoT
-- AI
-- Human-Computer Interaction
-- Automation
-- Hackathon Ideas
-
-<a href="https://github.com/thetarunsahu?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-00E5FF?style=for-the-badge&labelColor=020617"/>
-</a>
-
-</td>
 </tr>
 </table>
 
 ---
 
-# `> what_i_am_building_towards`
+# `> engineering_stack`
+
+### `LANGUAGES //`
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
+</p>
 
 ```text
-NOW
+Java
+Python
+C++
+C
+JavaScript
+```
+
+---
+
+### `AI //`
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
+</p>
+
+```text
+Artificial Intelligence
+├── Machine Learning
+├── Computer Vision
+├── Generative AI
+├── Multi-Agent Systems
+└── AI-Assisted Automation
+```
+
+---
+
+### `SOFTWARE & BACKEND //`
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,postgres,mysql,react" />
+</p>
+
+```text
+Java
+├── Spring Boot
+├── REST APIs
+└── Backend Fundamentals
+
+Web
+├── React
+├── JavaScript
+├── HTML
+└── CSS
+
+Data
+├── SQL
+├── PostgreSQL
+└── MySQL
+```
+
+---
+
+### `ENGINEERING TOOLS //`
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,idea" />
+</p>
+
+```text
+Git
+GitHub
+Linux
+Docker
+VS Code
+IntelliJ IDEA
+```
+
+---
+
+### `EDGE & HARDWARE //`
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+```text
+ESP32
+Sensors
+IoT
+Robotics
+Computer Vision Hardware
+Hardware-Software Integration
+```
+
+---
+
+# `> current_focus`
+
+```text
+CURRENT FOCUS
 │
 ├── Java + DSA
 │
-├── Backend Engineering
-│     ├── Spring Boot
-│     ├── Databases
-│     ├── APIs
-│     └── System Design
+├── Software Engineering
 │
-├── Applied AI
-│     ├── Machine Learning
-│     ├── Deep Learning
-│     ├── Generative AI
-│     └── Agentic AI
+├── Backend Fundamentals
 │
-└── Real Projects
-      │
-      ▼
-Software Engineer
-      +
-AI Engineering
-      +
-Product Building
+├── Multi-Agent AI Systems
+│
+├── Computer Vision
+│
+└── Robotics / Edge AI
 ```
+
+> Building strong engineering fundamentals while continuing to experiment with real-world AI and software systems.
 
 ---
 
@@ -296,52 +349,48 @@ Product Building
 
 ---
 
-# `> activity_monitor`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thetarunsahu&bg_color=020617&color=67E8F9&line=00E5FF&point=E6FBFF&area=true&hide_border=true" />
-
-</div>
-
----
-
 # `> engineering_principles`
 
 ```text
-01  UNDERSTAND BEFORE COPYING
-    AI should accelerate engineering — not replace understanding.
+01  UNDERSTAND BEFORE AUTOMATING
 
-02  BUILD > TUTORIAL HELL
-    Learning becomes valuable when it is converted into something real.
+    AI should accelerate engineering,
+    not replace understanding.
 
-03  DEBUG THE SYSTEM
-    Errors are not interruptions.
-    They are part of engineering.
 
-04  KEEP SHIPPING
-    A working V1 teaches more than an imaginary perfect V10.
+02  BUILD REAL SYSTEMS
 
-05  THINK LONG TERM
-    Skills compound.
-    Projects evolve.
-    Systems improve.
+    A working prototype teaches more
+    than another unfinished tutorial.
+
+
+03  VALIDATE BEFORE CLAIMING
+
+    Good engineering separates
+    experiments, demos and proven results.
 ```
 
 ---
 
 # `> beyond_code`
 
+I enjoy projects where **software leaves the screen and interacts with the real world**.
+
+That curiosity has led me to explore:
+
 ```text
-Hackathons      █████████████████░░░
-AI Experiments  ████████████████░░░░
-Hardware        ███████████░░░░░░░░░
-Backend         █████████████████░░░
-DSA             ███████████████░░░░░
-Building Ideas  ████████████████████
+Hackathons
+AI Systems
+Robotics
+IoT
+Computer Vision
+Product Prototyping
+Open-Ended Experiments
 ```
 
-> I like projects where **software leaves the screen and interacts with the real world.**
+Not every experiment becomes a product.
+
+But every serious build teaches something.
 
 ---
 
@@ -353,16 +402,16 @@ Building Ideas  ████████████████████
 <img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/tarunnsahuu">
-<img src="https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://github.com/thetarunsahu">
+<img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/c/tarunnsahuu">
-<img src="https://img.shields.io/badge/YOUTUBE-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://github.com/thetarunsahu/My-Portfolio">
+<img src="https://img.shields.io/badge/PORTFOLIO-Explore-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617"/>
 </a>
 
 <a href="mailto:tarunkumarsahu354@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact-00E5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -371,29 +420,7 @@ Building Ideas  ████████████████████
 
 <div align="center">
 
-## `> system_message`
-
-```text
-┌───────────────────────────────────────────────────────┐
-│                                                       │
-│    Good software begins with curiosity.               │
-│                                                       │
-│    Great software comes from understanding systems.   │
-│                                                       │
-│    I'm working on both.                               │
-│                                                       │
-└───────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-### `BUILDING...`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=67E8F9&center=true&vCenter=true&width=650&lines=Learning+something+new...;Building+something+useful...;Breaking+something+occasionally...;Fixing+it...;Shipping+the+next+version." />
-
-<br/><br/>
-
-**`< Think. Build. Ship. Repeat. />`**
+### `< Think. Build. Ship. Repeat. />`
 
 <br/>
 
