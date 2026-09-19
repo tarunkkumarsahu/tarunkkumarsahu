@@ -16,15 +16,15 @@
 
 <br/>
 
-<a href="https://github.com/thetarunsahu">
-  <img src="https://komarev.com/ghpvc/?username=thetarunsahu&label=PROFILE+VIEWS&color=00B8D4&style=for-the-badge" />
+<a href="https://github.com/tarunkkumarsahu">
+  <img src="https://komarev.com/ghpvc/?username=tarunkkumarsahu&label=PROFILE+VIEWS&color=00B8D4&style=for-the-badge" />
 </a>
 
-<a href="https://github.com/thetarunsahu?tab=followers">
-  <img src="https://img.shields.io/github/followers/thetarunsahu?label=FOLLOWERS&style=for-the-badge&color=00B8D4&labelColor=020617" />
+<a href="https://github.com/tarunkkumarsahu?tab=followers">
+  <img src="https://img.shields.io/github/followers/tarunkkumarsahu?label=FOLLOWERS&style=for-the-badge&color=00B8D4&labelColor=020617" />
 </a>
 
-<a href="https://github.com/thetarunsahu?tab=repositories">
+<a href="https://github.com/tarunkkumarsahu?tab=repositories">
   <img src="https://img.shields.io/badge/STATUS-BUILDING-00E5FF?style=for-the-badge&labelColor=020617" />
 </a>
 
@@ -164,7 +164,7 @@ Physical Action
 
 The project reflects my interest in building software that can interact with the physical world.
 
-<a href="https://github.com/thetarunsahu/AWR-Bot">
+<a href="https://github.com/tarunkkumarsahu/AWR-Bot-">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-AWR_BOT-00E5FF?style=for-the-badge&labelColor=020617"/>
 </a>
 
@@ -205,7 +205,7 @@ Currently exploring:
 - Voice Interfaces
 - Automation
 
-<a href="https://github.com/thetarunsahu/Jarvis-OS">
+<a href="https://github.com/tarunkkumarsahu/Jarvis-OS">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-JARVIS_OS-00E5FF?style=for-the-badge&labelColor=020617"/>
 </a>
 
@@ -337,13 +337,13 @@ CURRENT FOCUS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thetarunsahu&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=00E5FF&text_color=C9F7FF&ring_color=00E5FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tarunkkumarsahu&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=00E5FF&text_color=C9F7FF&ring_color=00E5FF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetarunsahu&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=C9F7FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkkumarsahu&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=C9F7FF" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=thetarunsahu&hide_border=true&background=020617&stroke=0E7490&ring=00E5FF&fire=00E5FF&currStreakNum=E6FBFF&sideNums=E6FBFF&currStreakLabel=00E5FF&sideLabels=67E8F9&dates=64748B" />
+<img width="70%" src="https://streak-stats.demolab.com?user=tarunkkumarsahu&hide_border=true&background=020617&stroke=0E7490&ring=00E5FF&fire=00E5FF&currStreakNum=E6FBFF&sideNums=E6FBFF&currStreakLabel=00E5FF&sideLabels=67E8F9&dates=64748B" />
 
 </div>
 
@@ -402,11 +402,11 @@ But every serious build teaches something.
 <img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/thetarunsahu">
+<a href="https://github.com/tarunkkumarsahu">
 <img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/thetarunsahu/My-Portfolio">
+<a href="https://github.com/tarunkkumarsahu/tarun-portfolio">
 <img src="https://img.shields.io/badge/PORTFOLIO-Explore-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617"/>
 </a>
 
