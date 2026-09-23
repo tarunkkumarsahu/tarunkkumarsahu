@@ -1,15 +1,22 @@
-name: Update DSA Commit Graph
+name: Update Commit Graphs
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 3 * * *"
+  push:
+    paths:
+      - "README.md"
 
 permissions:
   contents: write
 
+concurrency:
+  group: commit-graphs
+  cancel-in-progress: false
+
 jobs:
-  update-graph:
+  update-graphs:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,17 +28,17 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate DSA graph
+      - name: Generate all-repos and DSA graphs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/generate_dsa_graph.py
 
-      - name: Commit updated graph
+      - name: Commit updated graphs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/dsa-commits.svg
+          git add assets/all-repos-commits.svg assets/dsa-commits.svg
           if ! git diff --cached --quiet; then
-            git commit -m "Update DSA commit graph"
+            git commit -m "Update daily commit graphs"
             git push
           fi
