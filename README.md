@@ -354,27 +354,27 @@ CURRENT FOCUS
 
 <div align="center">
 
-### `01 // DAILY GITHUB ACTIVITY`
+### `01 // DAILY COMMITS — ALL REPOSITORIES`
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=tarunkkumarsahu&bg_color=020617&color=C9F7FF&title_color=00E5FF&line=00E5FF&point=FFFFFF&area=true&area_color=00B8D4&hide_border=true&custom_title=Daily%20GitHub%20Activity"
-  alt="Tarun's daily GitHub activity"
+  src="https://raw.githubusercontent.com/tarunkkumarsahu/tarunkkumarsahu/main/assets/all-repos-commits.svg"
+  alt="Daily authored commit counts across Tarun's public GitHub repositories over the last 30 days"
 />
 
 <br/>
 
-### `02 // DSA DAILY COMMITS`
+### `02 // DAILY COMMITS — STRUCTURED-DSA`
 
 <a href="https://github.com/tarunkkumarsahu/Structured-DSA">
   <img
     width="100%"
     src="https://raw.githubusercontent.com/tarunkkumarsahu/tarunkkumarsahu/main/assets/dsa-commits.svg"
-    alt="Daily commit counts in Tarun's Structured-DSA repository over the last 30 days"
+    alt="Daily authored commit counts in Structured-DSA over the last 30 days"
   />
 </a>
 
-<sub>DSA graph: last 30 days of authored commits in Structured-DSA, grouped by UTC date; automatically refreshed daily.</sub>
+<sub>Last 30 days · Your authored commits · Public repositories you own · UTC dates · Refreshed daily</sub>
 
 </div>
 
