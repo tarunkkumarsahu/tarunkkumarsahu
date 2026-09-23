@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280">
+<rect width="100%" height="100%" rx="16" fill="#020617"/>
+<text x="48" y="32" fill="#00E5FF" font-family="monospace" font-size="17" font-weight="bold">STRUCTURED-DSA // DAILY COMMITS</text>
+<text x="852" y="32" fill="#67E8F9" text-anchor="end" font-family="monospace" font-size="12">30D TOTAL: 6</text>
+<line x1="48" y1="225.0" x2="876" y2="225.0" stroke="#173047" stroke-dasharray="4 5"/>
+<text x="36" y="229.0" text-anchor="end" fill="#67E8F9" font-size="11">0</text>
+<line x1="48" y1="145.0" x2="876" y2="145.0" stroke="#173047" stroke-dasharray="4 5"/>
+<text x="36" y="149.0" text-anchor="end" fill="#67E8F9" font-size="11">3</text>
+<line x1="48" y1="65.0" x2="876" y2="65.0" stroke="#173047" stroke-dasharray="4 5"/>
+<text x="36" y="69.0" text-anchor="end" fill="#67E8F9" font-size="11">5</text>
+<polyline points="48.0,225.0 76.6,225.0 105.1,225.0 133.7,225.0 162.2,225.0 190.8,225.0 219.3,225.0 247.9,225.0 276.4,225.0 305.0,225.0 333.5,225.0 362.1,225.0 390.6,225.0 419.2,225.0 447.7,225.0 476.3,225.0 504.8,225.0 533.4,225.0 561.9,225.0 590.5,225.0 619.0,225.0 647.6,225.0 676.1,225.0 704.7,225.0 733.2,225.0 761.8,225.0 790.3,225.0 818.9,193.0 847.4,65.0 876.0,225.0" fill="none" stroke="#00E5FF" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="48.0" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="76.6" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="105.1" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="133.7" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="162.2" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="190.8" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="219.3" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="247.9" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="276.4" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="305.0" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="333.5" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="362.1" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="390.6" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="419.2" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="447.7" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="476.3" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="504.8" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="533.4" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="561.9" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="590.5" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="619.0" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="647.6" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="676.1" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="704.7" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="733.2" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="761.8" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="790.3" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="818.9" cy="193.0" r="3.5" fill="#00E5FF"/>
+<circle cx="847.4" cy="65.0" r="3.5" fill="#00E5FF"/>
+<circle cx="876.0" cy="225.0" r="3.5" fill="#00E5FF"/>
+<text x="48.0" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">25 Aug</text>
+<text x="190.8" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">30 Aug</text>
+<text x="333.5" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">04 Sep</text>
+<text x="476.3" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">09 Sep</text>
+<text x="619.0" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">14 Sep</text>
+<text x="761.8" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">19 Sep</text>
+<text x="48" y="269" fill="#64748B" font-family="monospace" font-size="10">Public repository; authored commits; UTC dates</text>
+</svg>
