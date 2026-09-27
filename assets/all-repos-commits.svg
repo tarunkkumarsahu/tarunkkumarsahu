@@ -1,49 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280">
 <rect width="100%" height="100%" rx="16" fill="#020617"/>
 <text x="48" y="32" fill="#00E5FF" font-family="monospace" font-size="17" font-weight="bold">ALL REPOSITORIES // DAILY COMMITS</text>
-<text x="852" y="32" fill="#67E8F9" text-anchor="end" font-family="monospace" font-size="12">30D TOTAL: 717</text>
+<text x="852" y="32" fill="#67E8F9" text-anchor="end" font-family="monospace" font-size="12">30D TOTAL: 724</text>
 <line x1="48" y1="225.0" x2="876" y2="225.0" stroke="#173047" stroke-dasharray="4 5"/>
 <text x="36" y="229.0" text-anchor="end" fill="#67E8F9" font-size="11">0</text>
 <line x1="48" y1="145.0" x2="876" y2="145.0" stroke="#173047" stroke-dasharray="4 5"/>
 <text x="36" y="149.0" text-anchor="end" fill="#67E8F9" font-size="11">51</text>
 <line x1="48" y1="65.0" x2="876" y2="65.0" stroke="#173047" stroke-dasharray="4 5"/>
 <text x="36" y="69.0" text-anchor="end" fill="#67E8F9" font-size="11">102</text>
-<polyline points="48.0,225.0 76.6,210.9 105.1,215.6 133.7,225.0 162.2,154.4 190.8,203.0 219.3,65.0 247.9,225.0 276.4,225.0 305.0,225.0 333.5,137.2 362.1,71.3 390.6,148.1 419.2,188.9 447.7,108.9 476.3,221.9 504.8,129.3 533.4,223.4 561.9,223.4 590.5,223.4 619.0,223.4 647.6,198.3 676.1,130.9 704.7,220.3 733.2,215.6 761.8,203.0 790.3,206.2 818.9,148.1 847.4,206.2 876.0,223.4" fill="none" stroke="#00E5FF" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="48.0" cy="225.0" r="3.5" fill="#00E5FF"/>
-<circle cx="76.6" cy="210.9" r="3.5" fill="#00E5FF"/>
-<circle cx="105.1" cy="215.6" r="3.5" fill="#00E5FF"/>
-<circle cx="133.7" cy="225.0" r="3.5" fill="#00E5FF"/>
-<circle cx="162.2" cy="154.4" r="3.5" fill="#00E5FF"/>
-<circle cx="190.8" cy="203.0" r="3.5" fill="#00E5FF"/>
-<circle cx="219.3" cy="65.0" r="3.5" fill="#00E5FF"/>
+<polyline points="48.0,210.9 76.6,215.6 105.1,225.0 133.7,154.4 162.2,203.0 190.8,65.0 219.3,225.0 247.9,225.0 276.4,225.0 305.0,137.2 333.5,71.3 362.1,148.1 390.6,188.9 419.2,108.9 447.7,221.9 476.3,129.3 504.8,223.4 533.4,223.4 561.9,223.4 590.5,223.4 619.0,198.3 647.6,130.9 676.1,220.3 704.7,215.6 733.2,203.0 761.8,206.2 790.3,148.1 818.9,206.2 847.4,221.9 876.0,215.6" fill="none" stroke="#00E5FF" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="48.0" cy="210.9" r="3.5" fill="#00E5FF"/>
+<circle cx="76.6" cy="215.6" r="3.5" fill="#00E5FF"/>
+<circle cx="105.1" cy="225.0" r="3.5" fill="#00E5FF"/>
+<circle cx="133.7" cy="154.4" r="3.5" fill="#00E5FF"/>
+<circle cx="162.2" cy="203.0" r="3.5" fill="#00E5FF"/>
+<circle cx="190.8" cy="65.0" r="3.5" fill="#00E5FF"/>
+<circle cx="219.3" cy="225.0" r="3.5" fill="#00E5FF"/>
 <circle cx="247.9" cy="225.0" r="3.5" fill="#00E5FF"/>
 <circle cx="276.4" cy="225.0" r="3.5" fill="#00E5FF"/>
-<circle cx="305.0" cy="225.0" r="3.5" fill="#00E5FF"/>
-<circle cx="333.5" cy="137.2" r="3.5" fill="#00E5FF"/>
-<circle cx="362.1" cy="71.3" r="3.5" fill="#00E5FF"/>
-<circle cx="390.6" cy="148.1" r="3.5" fill="#00E5FF"/>
-<circle cx="419.2" cy="188.9" r="3.5" fill="#00E5FF"/>
-<circle cx="447.7" cy="108.9" r="3.5" fill="#00E5FF"/>
-<circle cx="476.3" cy="221.9" r="3.5" fill="#00E5FF"/>
-<circle cx="504.8" cy="129.3" r="3.5" fill="#00E5FF"/>
+<circle cx="305.0" cy="137.2" r="3.5" fill="#00E5FF"/>
+<circle cx="333.5" cy="71.3" r="3.5" fill="#00E5FF"/>
+<circle cx="362.1" cy="148.1" r="3.5" fill="#00E5FF"/>
+<circle cx="390.6" cy="188.9" r="3.5" fill="#00E5FF"/>
+<circle cx="419.2" cy="108.9" r="3.5" fill="#00E5FF"/>
+<circle cx="447.7" cy="221.9" r="3.5" fill="#00E5FF"/>
+<circle cx="476.3" cy="129.3" r="3.5" fill="#00E5FF"/>
+<circle cx="504.8" cy="223.4" r="3.5" fill="#00E5FF"/>
 <circle cx="533.4" cy="223.4" r="3.5" fill="#00E5FF"/>
 <circle cx="561.9" cy="223.4" r="3.5" fill="#00E5FF"/>
 <circle cx="590.5" cy="223.4" r="3.5" fill="#00E5FF"/>
-<circle cx="619.0" cy="223.4" r="3.5" fill="#00E5FF"/>
-<circle cx="647.6" cy="198.3" r="3.5" fill="#00E5FF"/>
-<circle cx="676.1" cy="130.9" r="3.5" fill="#00E5FF"/>
-<circle cx="704.7" cy="220.3" r="3.5" fill="#00E5FF"/>
-<circle cx="733.2" cy="215.6" r="3.5" fill="#00E5FF"/>
-<circle cx="761.8" cy="203.0" r="3.5" fill="#00E5FF"/>
-<circle cx="790.3" cy="206.2" r="3.5" fill="#00E5FF"/>
-<circle cx="818.9" cy="148.1" r="3.5" fill="#00E5FF"/>
-<circle cx="847.4" cy="206.2" r="3.5" fill="#00E5FF"/>
-<circle cx="876.0" cy="223.4" r="3.5" fill="#00E5FF"/>
-<text x="48.0" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">28 Aug</text>
-<text x="190.8" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">02 Sep</text>
-<text x="333.5" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">07 Sep</text>
-<text x="476.3" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">12 Sep</text>
-<text x="619.0" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">17 Sep</text>
-<text x="761.8" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">22 Sep</text>
+<circle cx="619.0" cy="198.3" r="3.5" fill="#00E5FF"/>
+<circle cx="647.6" cy="130.9" r="3.5" fill="#00E5FF"/>
+<circle cx="676.1" cy="220.3" r="3.5" fill="#00E5FF"/>
+<circle cx="704.7" cy="215.6" r="3.5" fill="#00E5FF"/>
+<circle cx="733.2" cy="203.0" r="3.5" fill="#00E5FF"/>
+<circle cx="761.8" cy="206.2" r="3.5" fill="#00E5FF"/>
+<circle cx="790.3" cy="148.1" r="3.5" fill="#00E5FF"/>
+<circle cx="818.9" cy="206.2" r="3.5" fill="#00E5FF"/>
+<circle cx="847.4" cy="221.9" r="3.5" fill="#00E5FF"/>
+<circle cx="876.0" cy="215.6" r="3.5" fill="#00E5FF"/>
+<text x="48.0" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">29 Aug</text>
+<text x="190.8" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">03 Sep</text>
+<text x="333.5" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">08 Sep</text>
+<text x="476.3" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">13 Sep</text>
+<text x="619.0" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">18 Sep</text>
+<text x="761.8" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">23 Sep</text>
 <text x="48" y="269" fill="#64748B" font-family="monospace" font-size="10">Public owned repos; authored commits; UTC dates</text>
 </svg>
