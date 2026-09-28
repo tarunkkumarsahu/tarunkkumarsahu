@@ -7,11 +7,9 @@
 
 <div align="center">
 
-### `// THINK. RESEARCH. BUILD. VALIDATE.`
-
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Computer+Science+student+building+real-world+systems.;Researching+before+implementing.;AI+agents+%E2%80%A2+Software+Engineering+%E2%80%A2+Robotics.;Turning+experiments+into+working+systems.;Learning+deeply.+Building+practically.+Validating+carefully."
-  alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=%5B+OK+%5D+Booting+tarun.os+...;%5B+OK+%5D+Loading+agents+%E2%80%A2+robotics+%E2%80%A2+backend+...;%5B+OK+%5D+Mounting+projects+...;%5B+WARN+%5D+Coffee+level+low;tarun%40github%3A%7E%24+research+%E2%86%92+build+%E2%86%92+validate"
+  alt="Boot sequence"
 />
 
 <br/>
@@ -19,11 +17,9 @@
 <a href="https://github.com/tarunkkumarsahu">
   <img src="https://komarev.com/ghpvc/?username=tarunkkumarsahu&label=PROFILE+VIEWS&color=00B8D4&style=for-the-badge" />
 </a>
-
 <a href="https://github.com/tarunkkumarsahu?tab=followers">
   <img src="https://img.shields.io/github/followers/tarunkkumarsahu?label=FOLLOWERS&style=for-the-badge&color=00B8D4&labelColor=020617" />
 </a>
-
 <a href="https://github.com/tarunkkumarsahu?tab=repositories">
   <img src="https://img.shields.io/badge/STATUS-BUILDING-00E5FF?style=for-the-badge&labelColor=020617" />
 </a>
@@ -34,508 +30,232 @@
 
 # `> whoami`
 
-name: Tarun Kumar Sahu
+```console
+tarun@github:~$ whoami
+Tarun Kumar Sahu — CS student · AI & software builder
 
-role:
-- Computer Science Student
-- AI & Software Builder
+tarun@github:~$ cat interests.txt
+agentic-ai  software-engineering  computer-vision  robotics  edge-ai  backend
 
-interests:
-- Agentic AI
-- Software Engineering
-- Computer Vision
-- Robotics & Edge AI
-- Backend Systems
+tarun@github:~$ cat learning.txt
+java  dsa  spring-boot  sql  system-design  generative-ai  multi-agent-systems
 
-currently_learning:
-- Java
-- Data Structures & Algorithms
-- Spring Boot
-- SQL & Databases
-- System Design
-- Generative AI
-- Multi-Agent Systems
-
-approach:
-- Research the problem
-- Understand the underlying systems
-- Study existing approaches
-- Design before implementation
-- Build working systems
-- Test and validate
-- Document limitations
-- Iterate and improve
-
-goal:
-- Build reliable software systems
-- Strengthen engineering fundamentals
-- Convert research and experiments into useful products
-
-philosophy: "Understand deeply. Build practically. Validate honestly."
+tarun@github:~$ echo $PHILOSOPHY
+Understand deeply. Build practically. Validate honestly.
+```
 
 ---
 
-# `> how_i_build`
+# `> now`
 
-I don't want my projects to be just collections of frameworks, APIs and AI models.
+<div align="center">
 
-My approach is:
+| 🔨 BUILDING | 📚 LEARNING | 🚢 LAST SHIPPED | 🎯 NEXT |
+|:---:|:---:|:---:|:---:|
+| JARVIS OS | Java · DSA · Spring Boot | `<< edit: your latest project/feature >>` | Backend + System Design |
 
-                     PROBLEM
-                       ↓
-                    RESEARCH
-                       ↓
-              UNDERSTAND THE DOMAIN
-                       ↓
-              STUDY EXISTING APPROACHES
-                       ↓
-              DESIGN THE SYSTEM
-                       ↓
-                   IMPLEMENT
-                       ↓
-                 TEST & DEBUG
-                       ↓
-                 EVALUATE RESULTS
-                       ↓
-               DOCUMENT LIMITATIONS
-                       ↓
-                 ITERATE & IMPROVE
+</div>
 
-The technologies are implementation tools.
+---
 
-The important part is understanding **why a particular approach is being used, what assumptions it makes, how it behaves in practice, and where it fails.**
+# `> honesty_ladder`
+
+Yeh mera signature hai. Har project ko main is ladder pe honestly rate karta hoon:
+
+```text
+RESEARCHED  →  IMPLEMENTED  →  VALIDATED  →  PRODUCTION
+   "I read"     "It runs"      "I measured"   "People rely on it"
+```
+
+> Researched ≠ Implemented · Implemented ≠ Validated · Demo ≠ Production
 
 ---
 
 # `> featured_projects`
 
-<table>
-<tr>
+## 🤖 RELIAI — Multi-Agent Industrial Investigation
+**AI Tinkerers × Michelin Harness Engineering Hackathon · Top 10 🏆**
 
-<td width="50%" valign="top">
+Ek LLM ko single decision-maker banane ki jagah, industrial incident ko specialized reasoning stages mein todna.
 
-### 🤖 RELIAI
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF','secondaryColor':'#020617'}}}%%
+flowchart LR
+    A[Industrial Incident] --> B[Specialist Agents]
+    B --> C[Independent Analysis]
+    C --> D{Adversarial Critic}
+    D -- rejects --> B
+    D -- approves --> E[Confidence Score]
+    E --> F([Human Approval])
+```
 
-**Multi-Agent Industrial AI Investigation System**
+```text
+RESEARCHED   ██████████
+IMPLEMENTED  ████████░░
+VALIDATED    ████░░░░░░
+PRODUCTION   ░░░░░░░░░░
+```
 
-Developed during the **AI Tinkerers × Michelin Harness Engineering Hackathon**, where our team finished in the **Top 10**.
-
-Rather than treating an LLM as a single decision-making component, the project explores how an industrial investigation can be decomposed into specialized reasoning stages.
-
-### `RESEARCH → DESIGN → BUILD`
-
-**Research focus**
-
-- Multi-agent system architectures
-- Agent specialization and task decomposition
-- Independent validation of AI-generated conclusions
-- Adversarial / critic-based reasoning
-- Human-in-the-loop decision making
-- Confidence and uncertainty in AI-assisted decisions
-
-**System concept**
-
-Industrial Incident
-        ↓
-Specialized Investigation
-        ↓
-Independent Analysis
-        ↓
-Adversarial Critic
-        ↓
-Confidence Assessment
-        ↓
-Human Approval
-
-**Engineering focus**
-
-- Agent orchestration
-- Structured information flow
-- Independent reasoning stages
-- Validation before final output
-- Explainable decision support
-
-The goal was not simply to add multiple AI agents, but to investigate whether separating responsibilities can make AI-assisted industrial reasoning more structured and auditable.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌍 CLIMATE DIGITAL TWIN
-
-**AI-Powered Environmental Intelligence System**
-
-Developed during the **Bharatiya Antariksh Hackathon**.
-
-The project explores how environmental data can be transformed into an interactive representation of changing environmental conditions.
-
-### `RESEARCH → MODEL → VISUALIZE`
-
-**Research focus**
-
-- Environmental data representation
-- Data processing and transformation
-- AI-assisted environmental analysis
-- Digital-twin concepts
-- Visualization of changing conditions
-- Decision-support workflows
-
-**System concept**
-
-Environmental Data
-        ↓
-Data Processing
-        ↓
-AI Analysis
-        ↓
-Environmental Representation
-        ↓
-Digital Twin
-        ↓
-Insights
-
-**Engineering focus**
-
-- Data ingestion
-- Data processing
-- AI-assisted analysis
-- Visualization
-- Interactive interpretation
-
-The project was used to explore how computational models and environmental information can be combined into a system that helps users understand changing conditions.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🦾 AWR-BOT
-
-**AI + Robotics Prototype**
-
-A robotics project developed during SIH work.
-
-The project explores the engineering boundary between software intelligence and physical systems.
-
-### `RESEARCH → CONTROL → PHYSICAL SYSTEM`
-
-**Research focus**
-
-- Robotics workflows
-- Sensor-driven systems
-- Embedded control
-- Software-hardware interaction
-- Intelligent control logic
-- Real-world physical constraints
-
-**System concept**
-
-Sensors / Inputs
-       ↓
-Data Processing
-       ↓
-Decision / Control Logic
-       ↓
-Embedded System
-       ↓
-Actuation
-       ↓
-Physical Response
-
-**Engineering focus**
-
-- Sensor integration
-- Embedded systems
-- Control logic
-- Hardware-software communication
-- Real-world system constraints
-
-The project reflects my interest in building systems where software decisions eventually produce physical actions.
-
-<a href="https://github.com/tarunkkumarsahu/AWR-Bot-">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-AWR_BOT-00E5FF?style=for-the-badge&labelColor=020617"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 JARVIS OS
-
-**Personal AI Systems Research & Development**
-
-JARVIS OS is an ongoing experiment into what a personal AI system could look like when it goes beyond a conversational interface.
-
-### `RESEARCH → ARCHITECTURE → AGENTS → EXECUTION`
-
-**Research focus**
-
-- AI agent architectures
-- Memory systems
-- Tool-using AI
-- Local and cloud model integration
-- Desktop interaction
-- File intelligence
-- Automation workflows
-- Voice interfaces
-
-**System direction**
-
-User
- ↓
-JARVIS
- ↓
-Context / Memory
- ↓
-Reasoning
- ↓
-Agents
- ↓
-Tools
- ↓
-Execution
- ↓
-Result
-
-**Engineering areas**
-
-- Agent orchestration
-- Tool execution
-- Context management
-- Memory architecture
-- Desktop interaction
-- AI model integration
-- Automation
-
-The project is intentionally treated as an ongoing R&D system rather than claiming production maturity before the underlying components are sufficiently validated.
-
-<a href="https://github.com/tarunkkumarsahu/Jarvis-OS">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-JARVIS_OS-00E5FF?style=for-the-badge&labelColor=020617"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+**Focus:** agent orchestration · critic-based validation · uncertainty · human-in-the-loop
+**🪲 Failure story:** `<< edit: sabse bada bug ya galat assumption kya tha? >>`
 
 ---
 
-# `> research_to_engineering`
+## 🌍 CLIMATE DIGITAL TWIN — Environmental Intelligence
+**Bharatiya Antariksh Hackathon**
 
-For each serious project, I try to answer four questions:
+Environmental data ko ek interactive, badalti hui representation mein convert karna.
 
-01 // WHAT DID I STUDY?
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
+flowchart TD
+    A[(Environmental Data)] --> B[Ingestion & Processing]
+    B --> C[AI Analysis]
+    C --> D[Digital Twin Model]
+    D --> E[Interactive Visualization]
+    E --> F([Insights for Decisions])
+    E -. user explores .-> D
+```
 
-    What problem am I actually solving?
-    What existing approaches already exist?
-    What are their limitations?
+```text
+RESEARCHED   █████████░
+IMPLEMENTED  ███████░░░
+VALIDATED    ███░░░░░░░
+PRODUCTION   ░░░░░░░░░░
+```
 
-02 // WHY THIS ARCHITECTURE?
-
-    Why are these components separated?
-    Why this model / algorithm / framework?
-    What trade-offs were considered?
-
-03 // WHAT DID I ACTUALLY BUILD?
-
-    Which parts are implemented?
-    How does data move through the system?
-    What happens when something fails?
-
-04 // WHAT DID I VALIDATE?
-
-    What can currently be measured?
-    What tests exist?
-    What works only as a prototype?
-    What remains experimental?
-
-This distinction matters:
-
-RESEARCHED
-    ≠
-IMPLEMENTED
-
-IMPLEMENTED
-    ≠
-VALIDATED
-
-DEMO
-    ≠
-PRODUCTION
+**Focus:** data pipelines · AI-assisted analysis · visualization
+**🪲 Failure story:** `<< edit >>`
 
 ---
 
-# `> engineering_stack`
+## 🦾 AWR-BOT — AI + Robotics Prototype
+**SIH work** · [![View](https://img.shields.io/badge/VIEW_PROJECT-AWR_BOT-00E5FF?style=flat-square&labelColor=020617)](https://github.com/tarunkkumarsahu/AWR-Bot-)
 
-### `LANGUAGES //`
+Software decisions jab physical actions banate hain, tab real-world constraints saamne aate hain.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
-</p>
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
+flowchart LR
+    S[Sensors] --> P[Data Processing]
+    P --> L[Control Logic]
+    L --> M[Embedded System]
+    M --> A[Actuators]
+    A --> W((Physical World))
+    W -- feedback --> S
+```
 
-Java  
-Python  
-C++  
-C  
-JavaScript
+```text
+RESEARCHED   ████████░░
+IMPLEMENTED  ███████░░░
+VALIDATED    ███░░░░░░░
+PRODUCTION   ░░░░░░░░░░
+```
 
----
-
-### `AI //`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
-</p>
-
-Artificial Intelligence
-├── Machine Learning
-├── Computer Vision
-├── Generative AI
-├── Multi-Agent Systems
-└── AI-Assisted Automation
+**Focus:** sensor integration · embedded control · hardware-software communication
+**🪲 Failure story:** `<< edit: e.g. sabse bada hardware/sensor bug >>`
 
 ---
 
-### `SOFTWARE & BACKEND //`
+## 🧠 JARVIS OS — Personal AI Systems R&D
+[![View](https://img.shields.io/badge/VIEW_PROJECT-JARVIS_OS-00E5FF?style=flat-square&labelColor=020617)](https://github.com/tarunkkumarsahu/Jarvis-OS)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,react" />
-</p>
+Personal AI jo chatbot se aage jaye: memory, tools, desktop interaction, voice.
 
-Java
-├── Spring Boot
-├── REST APIs
-└── Backend Fundamentals
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
+flowchart TD
+    U([User]) --> J[JARVIS Core]
+    J <--> M[(Memory / Context)]
+    J --> R[Reasoning]
+    R --> AG[Agents]
+    AG --> T1[File Intelligence]
+    AG --> T2[Desktop Control]
+    AG --> T3[Automation]
+    T1 & T2 & T3 --> X[Execution]
+    X --> RES([Result])
+```
 
-Web
-├── React
-├── JavaScript
-├── HTML
-└── CSS
+```text
+RESEARCHED   █████████░
+IMPLEMENTED  ██████░░░░
+VALIDATED    ██░░░░░░░░
+PRODUCTION   ░░░░░░░░░░   ← intentionally R&D, not overclaimed
+```
 
-Data
-├── SQL
-├── PostgreSQL
-└── MySQL
-
----
-
-### `ENGINEERING TOOLS //`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,idea" />
-</p>
-
-Git  
-GitHub  
-Linux  
-Docker  
-VS Code  
-IntelliJ IDEA
+**Focus:** agent orchestration · memory architecture · tool execution
+**🪲 Failure story:** `<< edit >>`
 
 ---
 
-### `EDGE & HARDWARE //`
+# `> stack`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
+<div align="center">
 
-ESP32  
-Sensors  
-IoT  
-Robotics  
-Computer Vision Hardware  
-Hardware-Software Integration
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,spring,react,postgres,mysql,pytorch,opencv,docker,linux,git,github,arduino,vscode,idea" />
 
----
+</div>
 
-# `> current_focus`
-
-CURRENT FOCUS
-│
-├── Java + DSA
-│
-├── Software Engineering
-│
-├── Backend Fundamentals
-│
-├── Multi-Agent AI Systems
-│
-├── Computer Vision
-│
-└── Robotics / Edge AI
-
-Currently focusing on strengthening the fundamentals behind the systems I build.
-
-DSA
- ↓
-Programming Fundamentals
- ↓
-Backend Engineering
- ↓
-Databases
- ↓
-System Design
- ↓
-AI / ML Systems
-
-The objective is not to learn technologies independently, but to understand how they work together inside reliable software systems.
+```text
+LANGUAGES  Java · Python · C++ · C · JavaScript
+AI         ML · Computer Vision · GenAI · Multi-Agent · Automation
+BACKEND    Spring Boot · REST · SQL · PostgreSQL · MySQL
+WEB        React · HTML · CSS
+TOOLS      Git · GitHub · Linux · Docker · VS Code · IntelliJ
+EDGE       ESP32 · Sensors · IoT · Robotics
+```
 
 ---
 
-# `> technical_depth`
+# `> how_i_build`
 
-PROJECT DEPTH
-│
-├── Problem Understanding
-├── Domain Research
-├── Architecture
-├── Implementation
-├── Data & Models
-├── API Design
-├── Error Handling
-├── Testing
-├── Evaluation
-├── Deployment
-└── Maintainability
+<details>
+<summary><b>▶ Mera process (expand)</b></summary>
 
-For AI and machine-learning projects:
+<br/>
 
-Dataset
-   ↓
-Preprocessing
-   ↓
-Model / Approach
-   ↓
-Evaluation Method
-   ↓
-Metrics
-   ↓
-Inference Behaviour
-   ↓
-Limitations
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
+flowchart LR
+    A[Problem] --> B[Research] --> C[Study Existing Approaches] --> D[Design]
+    D --> E[Implement] --> F[Test & Debug] --> G[Evaluate] --> H[Document Limitations]
+    H -. iterate .-> D
+```
 
-For software systems:
+Har serious project pe 4 sawaal:
 
-Input
-  ↓
-Validation
-  ↓
-Business Logic
-  ↓
-API / Service Layer
-  ↓
-Database / External Service
-  ↓
-Error Handling
-  ↓
-Observable Result
+1. **Kya study kiya?** Problem, existing approaches, unki limitations
+2. **Yeh architecture kyun?** Trade-offs kya the
+3. **Actually kya build kiya?** Data flow, failure handling
+4. **Kya validate kiya?** Tests, metrics, kya sirf prototype hai
 
-The goal is to understand the complete path rather than only the final interface.
+</details>
+
+<details>
+<summary><b>▶ Engineering principles (expand)</b></summary>
+
+<br/>
+
+1. **Understand before automating.** AI engineering ko accelerate kare, understanding ko replace nahi.
+2. **Research before implementing.**
+3. **Validate before claiming.** Experiment, demo, measured result, production alag cheezein hain.
+4. **Design for failure.** Real systems fail hote hain.
+5. **Build to learn.** Serious prototype = technical understanding ka experiment.
+
+</details>
+
+<details>
+<summary><b>▶ Current focus roadmap (expand)</b></summary>
+
+<br/>
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
+flowchart LR
+    A[DSA] --> B[Java Fundamentals] --> C[Backend] --> D[Databases] --> E[System Design] --> F[AI / ML Systems]
+```
+
+</details>
 
 ---
 
@@ -544,99 +264,59 @@ The goal is to understand the complete path rather than only the final interface
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tarunkkumarsahu&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=00E5FF&text_color=C9F7FF&ring_color=00E5FF" />
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkkumarsahu&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=C9F7FF" />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=tarunkkumarsahu&hide_border=true&background=020617&stroke=0E7490&ring=00E5FF&fire=00E5FF&currStreakNum=E6FBFF&sideNums=E6FBFF&currStreakLabel=00E5FF&sideLabels=67E8F9&dates=64748B" />
 
 </div>
 
----
-
-# `> commit_activity`
+<details>
+<summary><b>▶ Commit activity (last 30 days)</b></summary>
 
 <div align="center">
 
-### `01 // DAILY COMMITS — ALL REPOSITORIES`
+<br/>
 
-<img
-  width="100%"
-  src="https://raw.githubusercontent.com/tarunkkumarsahu/tarunkkumarsahu/main/assets/all-repos-commits.svg"
-  alt="Daily authored commit counts across Tarun's public GitHub repositories over the last 30 days"
-/>
+**All repositories**
 
-### `02 // DAILY COMMITS — STRUCTURED-DSA`
+<img width="100%" src="https://raw.githubusercontent.com/tarunkkumarsahu/tarunkkumarsahu/main/assets/all-repos-commits.svg" alt="Daily authored commit counts across public repositories over the last 30 days"/>
+
+**Structured-DSA**
 
 <a href="https://github.com/tarunkkumarsahu/Structured-DSA">
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/tarunkkumarsahu/tarunkkumarsahu/main/assets/dsa-commits.svg"
-    alt="Daily authored commit counts in Structured-DSA over the last 30 days"
-  />
+  <img width="100%" src="https://raw.githubusercontent.com/tarunkkumarsahu/tarunkkumarsahu/main/assets/dsa-commits.svg" alt="Daily authored commit counts in Structured-DSA over the last 30 days"/>
 </a>
 
-<sub>Last 30 days · Your authored commits · Public repositories you own · UTC dates · Refreshed daily</sub>
+<sub>Last 30 days · UTC · Refreshed daily</sub>
 
 </div>
 
----
+</details>
 
-# `> engineering_principles`
-
-01  UNDERSTAND BEFORE AUTOMATING
-
-    AI should accelerate engineering,
-    not replace understanding.
-
-02  RESEARCH BEFORE IMPLEMENTING
-
-    Understand the problem and existing
-    approaches before choosing a solution.
-
-03  VALIDATE BEFORE CLAIMING
-
-    Separate experiments, demonstrations,
-    measured results and production systems.
-
-04  DESIGN FOR FAILURE
-
-    Real systems fail.
-
-    Good engineering considers
-    errors, uncertainty and edge cases.
-
-05  BUILD TO LEARN
-
-    A serious prototype is not just a demo.
-
-    It is an experiment that produces
-    technical understanding.
+<!-- OPTIONAL: Snake animation (needs a GitHub Action, see notes)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tarunkkumarsahu/tarunkkumarsahu/output/github-snake-dark.svg" width="100%" alt="snake"/>
+</div>
+-->
 
 ---
 
 # `> beyond_code`
 
-I enjoy projects where **software leaves the screen and interacts with the real world**.
+Mujhe woh projects pasand hain jahan **software screen se nikal ke real world se interact karta hai**: robotics, IoT, computer vision, environmental intelligence, hackathons, open-ended experiments.
 
-That curiosity has led me to explore:
+Kuch experiments products ban jaate hain. Kuch prototype rehte hain. Kuch bas ek technical sawaal ka jawab dete hain. Teeno valuable hain, agar genuine understanding milti hai.
 
-AI Systems  
-Software Engineering  
-Robotics  
-IoT  
-Computer Vision  
-Environmental Intelligence  
-Product Prototyping  
-Hackathons  
-Open-Ended Experiments
+---
 
-Some experiments become products.
+# `> easter_egg`
 
-Some remain prototypes.
-
-Some simply answer a technical question.
-
-All three can be valuable if they produce genuine engineering understanding.
+```console
+tarun@github:~$ sudo hire tarun
+[sudo] password for recruiter: ********
+Access granted. ✔
+Opening: mailto:tarunkumarsahu354@gmail.com ...
+```
 
 ---
 
@@ -644,27 +324,12 @@ All three can be valuable if they produce genuine engineering understanding.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/tarunnsahuu">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://linkedin.com/in/tarunnsahuu"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/tarunkkumarsahu"><img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/tarunkkumarsahu/tarun-portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617"/></a>
+<a href="mailto:tarunkumarsahu354@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<a href="https://github.com/tarunkkumarsahu">
-  <img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/tarunkkumarsahu/tarun-portfolio">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Explore-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617"/>
-</a>
-
-<a href="mailto:tarunkumarsahu354@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 ### `< Research. Understand. Build. Validate. />`
 
