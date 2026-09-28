@@ -52,7 +52,7 @@ Understand deeply. Build practically. Validate honestly.
 
 | 🔨 BUILDING | 📚 LEARNING | 🚢 LAST SHIPPED | 🎯 NEXT |
 |:---:|:---:|:---:|:---:|
-| JARVIS OS | Java · DSA · Spring Boot | `<< edit: your latest project/feature >>` | Backend + System Design |
+| JARVIS OS | Java · DSA · Spring Boot | `<< edit: your latest project or feature >>` | Backend + System Design |
 
 </div>
 
@@ -60,11 +60,11 @@ Understand deeply. Build practically. Validate honestly.
 
 # `> honesty_ladder`
 
-Yeh mera signature hai. Har project ko main is ladder pe honestly rate karta hoon:
+This is my signature. I rate every project on this ladder, honestly:
 
 ```text
 RESEARCHED  →  IMPLEMENTED  →  VALIDATED  →  PRODUCTION
-   "I read"     "It runs"      "I measured"   "People rely on it"
+  "I read"      "It runs"      "I measured"   "People rely on it"
 ```
 
 > Researched ≠ Implemented · Implemented ≠ Validated · Demo ≠ Production
@@ -76,7 +76,7 @@ RESEARCHED  →  IMPLEMENTED  →  VALIDATED  →  PRODUCTION
 ## 🤖 RELIAI — Multi-Agent Industrial Investigation
 **AI Tinkerers × Michelin Harness Engineering Hackathon · Top 10 🏆**
 
-Ek LLM ko single decision-maker banane ki jagah, industrial incident ko specialized reasoning stages mein todna.
+Instead of treating an LLM as a single decision-maker, RELIAI breaks an industrial incident investigation into specialized reasoning stages, with an adversarial critic checking the conclusions before a human signs off.
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF','secondaryColor':'#020617'}}}%%
@@ -97,14 +97,14 @@ PRODUCTION   ░░░░░░░░░░
 ```
 
 **Focus:** agent orchestration · critic-based validation · uncertainty · human-in-the-loop
-**🪲 Failure story:** `<< edit: sabse bada bug ya galat assumption kya tha? >>`
+**🪲 Failure story:** `<< edit: what was the biggest bug or wrong assumption? >>`
 
 ---
 
 ## 🌍 CLIMATE DIGITAL TWIN — Environmental Intelligence
 **Bharatiya Antariksh Hackathon**
 
-Environmental data ko ek interactive, badalti hui representation mein convert karna.
+Turning raw environmental data into an interactive representation of changing conditions.
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
@@ -132,7 +132,7 @@ PRODUCTION   ░░░░░░░░░░
 ## 🦾 AWR-BOT — AI + Robotics Prototype
 **SIH work** · [![View](https://img.shields.io/badge/VIEW_PROJECT-AWR_BOT-00E5FF?style=flat-square&labelColor=020617)](https://github.com/tarunkkumarsahu/AWR-Bot-)
 
-Software decisions jab physical actions banate hain, tab real-world constraints saamne aate hain.
+What happens when software decisions become physical actions, and real-world constraints push back.
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
@@ -153,14 +153,14 @@ PRODUCTION   ░░░░░░░░░░
 ```
 
 **Focus:** sensor integration · embedded control · hardware-software communication
-**🪲 Failure story:** `<< edit: e.g. sabse bada hardware/sensor bug >>`
+**🪲 Failure story:** `<< edit: e.g. the nastiest sensor or hardware bug >>`
 
 ---
 
 ## 🧠 JARVIS OS — Personal AI Systems R&D
 [![View](https://img.shields.io/badge/VIEW_PROJECT-JARVIS_OS-00E5FF?style=flat-square&labelColor=020617)](https://github.com/tarunkkumarsahu/Jarvis-OS)
 
-Personal AI jo chatbot se aage jaye: memory, tools, desktop interaction, voice.
+A personal AI system that goes beyond chat: memory, tool use, desktop interaction and voice.
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
@@ -210,7 +210,7 @@ EDGE       ESP32 · Sensors · IoT · Robotics
 # `> how_i_build`
 
 <details>
-<summary><b>▶ Mera process (expand)</b></summary>
+<summary><b>▶ My process (expand)</b></summary>
 
 <br/>
 
@@ -222,12 +222,12 @@ flowchart LR
     H -. iterate .-> D
 ```
 
-Har serious project pe 4 sawaal:
+For every serious project, I try to answer four questions:
 
-1. **Kya study kiya?** Problem, existing approaches, unki limitations
-2. **Yeh architecture kyun?** Trade-offs kya the
-3. **Actually kya build kiya?** Data flow, failure handling
-4. **Kya validate kiya?** Tests, metrics, kya sirf prototype hai
+1. **What did I study?** The problem, existing approaches and their limitations.
+2. **Why this architecture?** Which trade-offs were considered.
+3. **What did I actually build?** How data flows and what happens when something fails.
+4. **What did I validate?** Which tests and metrics exist, and what is still just a prototype.
 
 </details>
 
@@ -236,11 +236,11 @@ Har serious project pe 4 sawaal:
 
 <br/>
 
-1. **Understand before automating.** AI engineering ko accelerate kare, understanding ko replace nahi.
-2. **Research before implementing.**
-3. **Validate before claiming.** Experiment, demo, measured result, production alag cheezein hain.
-4. **Design for failure.** Real systems fail hote hain.
-5. **Build to learn.** Serious prototype = technical understanding ka experiment.
+1. **Understand before automating.** AI should accelerate engineering, not replace understanding.
+2. **Research before implementing.** Know the problem and existing approaches first.
+3. **Validate before claiming.** Experiments, demos, measured results and production systems are different things.
+4. **Design for failure.** Real systems fail; good engineering plans for errors and edge cases.
+5. **Build to learn.** A serious prototype is an experiment that produces technical understanding.
 
 </details>
 
@@ -254,6 +254,8 @@ Har serious project pe 4 sawaal:
 flowchart LR
     A[DSA] --> B[Java Fundamentals] --> C[Backend] --> D[Databases] --> E[System Design] --> F[AI / ML Systems]
 ```
+
+The goal is not to learn technologies in isolation, but to understand how they work together inside reliable software systems.
 
 </details>
 
@@ -293,7 +295,7 @@ flowchart LR
 
 </details>
 
-<!-- OPTIONAL: Snake animation (needs a GitHub Action, see notes)
+<!-- OPTIONAL: Snake animation (needs a GitHub Action)
 <div align="center">
   <img src="https://raw.githubusercontent.com/tarunkkumarsahu/tarunkkumarsahu/output/github-snake-dark.svg" width="100%" alt="snake"/>
 </div>
@@ -303,9 +305,9 @@ flowchart LR
 
 # `> beyond_code`
 
-Mujhe woh projects pasand hain jahan **software screen se nikal ke real world se interact karta hai**: robotics, IoT, computer vision, environmental intelligence, hackathons, open-ended experiments.
+I enjoy projects where **software leaves the screen and interacts with the real world**: robotics, IoT, computer vision, environmental intelligence, hackathons and open-ended experiments.
 
-Kuch experiments products ban jaate hain. Kuch prototype rehte hain. Kuch bas ek technical sawaal ka jawab dete hain. Teeno valuable hain, agar genuine understanding milti hai.
+Some experiments become products. Some stay prototypes. Some simply answer a technical question. All three are valuable if they produce genuine engineering understanding.
 
 ---
 
