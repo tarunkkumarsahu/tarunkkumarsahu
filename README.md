@@ -1,85 +1,134 @@
 <!-- ==========================================================
-                     TARUN KUMAR SAHU
-             GitHub Profile // Developer Console
+              TARUN.OS  //  PLAYER PROFILE  //  v2026
 ========================================================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0F172A,100:00E5FF&text=TARUN%20KUMAR%20SAHU&fontColor=E6FBFF&fontSize=44&fontAlignY=35&desc=AI%20%E2%80%A2%20SOFTWARE%20ENGINEERING%20%E2%80%A2%20AGENTIC%20SYSTEMS&descAlignY=56&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020617,50:0F172A,100:00E5FF&text=TARUN%20KUMAR%20SAHU&fontColor=E6FBFF&fontSize=46&fontAlignY=38&desc=PLAYER%20ONE%20%E2%80%A2%20AI%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20ROBOTICS&descAlignY=62&descSize=16&animation=twinkling"/>
 
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=%5B+OK+%5D+Booting+tarun.os+...;%5B+OK+%5D+Loading+agents+%E2%80%A2+robotics+%E2%80%A2+backend+...;%5B+OK+%5D+Mounting+projects+...;%5B+WARN+%5D+Coffee+level+low;tarun%40github%3A%7E%24+research+%E2%86%92+build+%E2%86%92+validate"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=%5B+OK+%5D+Booting+tarun.os+...;%5B+OK+%5D+Loading+agents+%E2%80%A2+robotics+%E2%80%A2+backend+...;%5B+OK+%5D+Mounting+quest+log+...;%5B+WARN+%5D+Coffee+level+low;PLAYER+ONE+READY.+PRESS+START."
   alt="Boot sequence"
 />
 
 <br/>
 
-<a href="https://github.com/tarunkkumarsahu">
-  <img src="https://komarev.com/ghpvc/?username=tarunkkumarsahu&label=PROFILE+VIEWS&color=00B8D4&style=for-the-badge" />
-</a>
-<a href="https://github.com/tarunkkumarsahu?tab=followers">
-  <img src="https://img.shields.io/github/followers/tarunkkumarsahu?label=FOLLOWERS&style=for-the-badge&color=00B8D4&labelColor=020617" />
-</a>
-<a href="https://github.com/tarunkkumarsahu?tab=repositories">
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-00E5FF?style=for-the-badge&labelColor=020617" />
-</a>
+<a href="https://github.com/tarunkkumarsahu"><img src="https://komarev.com/ghpvc/?username=tarunkkumarsahu&label=PLAYERS+VISITED&color=00B8D4&style=for-the-badge" /></a>
+<a href="https://github.com/tarunkkumarsahu?tab=followers"><img src="https://img.shields.io/github/followers/tarunkkumarsahu?label=ALLIES&style=for-the-badge&color=00B8D4&labelColor=020617" /></a>
+<img src="https://img.shields.io/badge/STATUS-IN_A_QUEST-00E5FF?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
----
-
-# `> whoami`
-
-```console
-tarun@github:~$ whoami
-Tarun Kumar Sahu — CS student · AI & software builder
-
-tarun@github:~$ cat interests.txt
-agentic-ai  software-engineering  computer-vision  robotics  edge-ai  backend
-
-tarun@github:~$ cat learning.txt
-java  dsa  spring-boot  sql  system-design  generative-ai  multi-agent-systems
-
-tarun@github:~$ echo $PHILOSOPHY
-Understand deeply. Build practically. Validate honestly.
+```text
+   ████████╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗
+   ╚══██╔══╝██╔══██╗██╔══██╗██║   ██║████╗  ██║
+      ██║   ███████║██████╔╝██║   ██║██╔██╗ ██║
+      ██║   ██╔══██║██╔══██╗██║   ██║██║╚██╗██║
+      ██║   ██║  ██║██║  ██║╚██████╔╝██║ ╚████║
+      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+              >> INSERT COIN TO CONTINUE <<
 ```
 
 ---
 
-# `> now`
+# `> character_sheet`
+
+```text
+╔══════════════════════════════════════════════════════╗
+║  NAME    : Tarun Kumar Sahu                          ║
+║  CLASS   : Builder  (AI Engineer / Roboticist hybrid)║
+║  LEVEL   : CS Student — grinding                     ║
+║  GUILD   : AI Tinkerers · Hackathon circuit          ║
+║  MOTTO   : Understand deeply. Build practically.     ║
+║            Validate honestly.                        ║
+╠══════════════════════════════════════════════════════╣
+║  STATS  (self-rated, updated as I level up)          ║
+║                                                      ║
+║  AGENTIC AI      ████████░░  8/10                    ║
+║  PYTHON          ████████░░  8/10                    ║
+║  ROBOTICS / IoT  ███████░░░  7/10                    ║
+║  COMPUTER VISION ███████░░░  7/10                    ║
+║  JAVA            █████░░░░░  5/10  ← leveling up     ║
+║  DSA             █████░░░░░  5/10  ← leveling up     ║
+║  BACKEND         █████░░░░░  5/10  ← leveling up     ║
+║  SYSTEM DESIGN   ███░░░░░░░  3/10  ← next boss       ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<sub>Stats are placeholders. Edit them to match reality; honesty is the whole point of this profile.</sub>
+
+---
+
+# `> now_playing`
 
 <div align="center">
 
-| 🔨 BUILDING | 📚 LEARNING | 🚢 LAST SHIPPED | 🎯 NEXT |
+| 🔨 ACTIVE QUEST | 📖 TRAINING | 🚢 LAST LOOT | 🎯 NEXT UNLOCK |
 |:---:|:---:|:---:|:---:|
-| JARVIS OS | Java · DSA · Spring Boot | `<< edit: your latest project or feature >>` | Backend + System Design |
+| JARVIS OS | Java · DSA · Spring Boot | `<< edit: latest thing you shipped >>` | Backend + System Design |
 
 </div>
 
 ---
 
-# `> honesty_ladder`
+# `> skill_tree`
 
-This is my signature. I rate every project on this ladder, honestly:
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF','secondaryColor':'#020617','tertiaryColor':'#020617'}}}%%
+mindmap
+  root((TARUN))
+    AI
+      Agentic Systems
+      Multi-Agent
+      Computer Vision
+      Generative AI
+    Software
+      Java
+      Spring Boot
+      SQL
+      System Design
+    Hardware
+      ESP32
+      Sensors
+      Robotics
+      Edge AI
+    Toolkit
+      Git
+      Docker
+      Linux
+      React
+```
+
+---
+
+# `> the_honesty_ladder`
+
+Every quest gets rated on the ladder below. It's my one house rule.
 
 ```text
-RESEARCHED  →  IMPLEMENTED  →  VALIDATED  →  PRODUCTION
-  "I read"      "It runs"      "I measured"   "People rely on it"
+  🔍 RESEARCHED  →  ⚙️ IMPLEMENTED  →  📏 VALIDATED  →  🚀 PRODUCTION
+    "I read it"      "It runs"        "I measured it"   "People rely on it"
 ```
 
 > Researched ≠ Implemented · Implemented ≠ Validated · Demo ≠ Production
 
 ---
 
-# `> featured_projects`
+# `> quest_log`
 
-## 🤖 RELIAI — Multi-Agent Industrial Investigation
-**AI Tinkerers × Michelin Harness Engineering Hackathon · Top 10 🏆**
+## 📜 QUEST 01 · RELIAI
 
-Instead of treating an LLM as a single decision-maker, RELIAI breaks an industrial incident investigation into specialized reasoning stages, with an adversarial critic checking the conclusions before a human signs off.
+```text
+┌──────────────────────────────────────────────────────┐
+│ MISSION BRIEFING            CLEARANCE: TOP 10 🏆     │
+│ Event : AI Tinkerers × Michelin Harness Engineering  │
+│ Goal  : Investigate an industrial incident WITHOUT   │
+│         trusting a single LLM's opinion              │
+└──────────────────────────────────────────────────────┘
+```
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF','secondaryColor':'#020617'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
 flowchart LR
     A[Industrial Incident] --> B[Specialist Agents]
     B --> C[Independent Analysis]
@@ -90,21 +139,26 @@ flowchart LR
 ```
 
 ```text
-RESEARCHED   ██████████
-IMPLEMENTED  ████████░░
-VALIDATED    ████░░░░░░
-PRODUCTION   ░░░░░░░░░░
+🔍 RESEARCHED   ██████████
+⚙️ IMPLEMENTED  ████████░░
+📏 VALIDATED    ████░░░░░░
+🚀 PRODUCTION   ░░░░░░░░░░
 ```
 
-**Focus:** agent orchestration · critic-based validation · uncertainty · human-in-the-loop
-**🪲 Failure story:** `<< edit: what was the biggest bug or wrong assumption? >>`
+**⚔️ Weapons:** multi-agent orchestration · critic-based validation · human-in-the-loop
+**💀 Boss fight (biggest failure):** `<< edit: what went wrong and what you learned >>`
 
 ---
 
-## 🌍 CLIMATE DIGITAL TWIN — Environmental Intelligence
-**Bharatiya Antariksh Hackathon**
+## 📜 QUEST 02 · CLIMATE DIGITAL TWIN
 
-Turning raw environmental data into an interactive representation of changing conditions.
+```text
+┌──────────────────────────────────────────────────────┐
+│ MISSION BRIEFING          EVENT: Bharatiya Antariksh │
+│ Goal : Turn raw environmental data into a living,    │
+│        explorable model of a changing planet         │
+└──────────────────────────────────────────────────────┘
+```
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
@@ -118,21 +172,28 @@ flowchart TD
 ```
 
 ```text
-RESEARCHED   █████████░
-IMPLEMENTED  ███████░░░
-VALIDATED    ███░░░░░░░
-PRODUCTION   ░░░░░░░░░░
+🔍 RESEARCHED   █████████░
+⚙️ IMPLEMENTED  ███████░░░
+📏 VALIDATED    ███░░░░░░░
+🚀 PRODUCTION   ░░░░░░░░░░
 ```
 
-**Focus:** data pipelines · AI-assisted analysis · visualization
-**🪲 Failure story:** `<< edit >>`
+**⚔️ Weapons:** data pipelines · AI-assisted analysis · visualization
+**💀 Boss fight:** `<< edit >>`
 
 ---
 
-## 🦾 AWR-BOT — AI + Robotics Prototype
-**SIH work** · [![View](https://img.shields.io/badge/VIEW_PROJECT-AWR_BOT-00E5FF?style=flat-square&labelColor=020617)](https://github.com/tarunkkumarsahu/AWR-Bot-)
+## 📜 QUEST 03 · AWR-BOT
 
-What happens when software decisions become physical actions, and real-world constraints push back.
+[![View](https://img.shields.io/badge/OPEN_QUEST_FILE-AWR_BOT-00E5FF?style=flat-square&labelColor=020617)](https://github.com/tarunkkumarsahu/AWR-Bot-)
+
+```text
+┌──────────────────────────────────────────────────────┐
+│ MISSION BRIEFING                     EVENT: SIH      │
+│ Goal : Make software decisions move real metal, and  │
+│        survive contact with the physical world       │
+└──────────────────────────────────────────────────────┘
+```
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
@@ -146,21 +207,28 @@ flowchart LR
 ```
 
 ```text
-RESEARCHED   ████████░░
-IMPLEMENTED  ███████░░░
-VALIDATED    ███░░░░░░░
-PRODUCTION   ░░░░░░░░░░
+🔍 RESEARCHED   ████████░░
+⚙️ IMPLEMENTED  ███████░░░
+📏 VALIDATED    ███░░░░░░░
+🚀 PRODUCTION   ░░░░░░░░░░
 ```
 
-**Focus:** sensor integration · embedded control · hardware-software communication
-**🪲 Failure story:** `<< edit: e.g. the nastiest sensor or hardware bug >>`
+**⚔️ Weapons:** sensor integration · embedded control · hardware-software comms
+**💀 Boss fight:** `<< edit: the nastiest sensor or hardware bug >>`
 
 ---
 
-## 🧠 JARVIS OS — Personal AI Systems R&D
-[![View](https://img.shields.io/badge/VIEW_PROJECT-JARVIS_OS-00E5FF?style=flat-square&labelColor=020617)](https://github.com/tarunkkumarsahu/Jarvis-OS)
+## 📜 QUEST 04 · JARVIS OS  ·  `ONGOING`
 
-A personal AI system that goes beyond chat: memory, tool use, desktop interaction and voice.
+[![View](https://img.shields.io/badge/OPEN_QUEST_FILE-JARVIS_OS-00E5FF?style=flat-square&labelColor=020617)](https://github.com/tarunkkumarsahu/Jarvis-OS)
+
+```text
+┌──────────────────────────────────────────────────────┐
+│ MISSION BRIEFING                  TYPE: LONG CAMPAIGN│
+│ Goal : A personal AI with memory, tools, desktop     │
+│        control and voice. Not just a chatbot.        │
+└──────────────────────────────────────────────────────┘
+```
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
@@ -177,18 +245,56 @@ flowchart TD
 ```
 
 ```text
-RESEARCHED   █████████░
-IMPLEMENTED  ██████░░░░
-VALIDATED    ██░░░░░░░░
-PRODUCTION   ░░░░░░░░░░   ← intentionally R&D, not overclaimed
+🔍 RESEARCHED   █████████░
+⚙️ IMPLEMENTED  ██████░░░░
+📏 VALIDATED    ██░░░░░░░░
+🚀 PRODUCTION   ░░░░░░░░░░   ← intentionally R&D, not overclaimed
 ```
 
-**Focus:** agent orchestration · memory architecture · tool execution
-**🪲 Failure story:** `<< edit >>`
+**⚔️ Weapons:** agent orchestration · memory architecture · tool execution
+**💀 Boss fight:** `<< edit >>`
 
 ---
 
-# `> stack`
+# `> achievements`
+
+<div align="center">
+
+| | Achievement | Unlocked by |
+|:---:|:---|:---|
+| 🏆 | **Top 10 Finisher** | RELIAI at the AI Tinkerers × Michelin hackathon |
+| 🛰️ | **Space Cadet** | Climate Digital Twin at Bharatiya Antariksh Hackathon |
+| 🦾 | **Metal Mover** | AWR-Bot: software that actually moves hardware |
+| 🧪 | **Mad Scientist** | JARVIS OS: still experimenting |
+| 🔒 | **???** | `<< add your next achievement >>` |
+
+</div>
+
+---
+
+# `> patch_notes`
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF','cScale0':'#0F172A','cScale1':'#0F172A','cScale2':'#0F172A'}}}%%
+timeline
+    title Tarun.OS release history
+    section Foundations
+        v0.x : Started with Python and curiosity
+             : First experiments with sensors and microcontrollers
+    section Hackathon era
+        v1.0 : AWR-Bot at SIH
+        v1.1 : Climate Digital Twin at Bharatiya Antariksh
+        v1.2 : RELIAI, Top 10 at AI Tinkerers x Michelin
+    section Now
+        v2.0 : Java, DSA and backend fundamentals
+             : JARVIS OS keeps evolving
+```
+
+<sub>Edit the entries with real dates and milestones.</sub>
+
+---
+
+# `> inventory`
 
 <div align="center">
 
@@ -196,21 +302,12 @@ PRODUCTION   ░░░░░░░░░░   ← intentionally R&D, not overcla
 
 </div>
 
-```text
-LANGUAGES  Java · Python · C++ · C · JavaScript
-AI         ML · Computer Vision · GenAI · Multi-Agent · Automation
-BACKEND    Spring Boot · REST · SQL · PostgreSQL · MySQL
-WEB        React · HTML · CSS
-TOOLS      Git · GitHub · Linux · Docker · VS Code · IntelliJ
-EDGE       ESP32 · Sensors · IoT · Robotics
-```
-
 ---
 
-# `> how_i_build`
+# `> lore`
 
 <details>
-<summary><b>▶ My process (expand)</b></summary>
+<summary><b>▶ How I build (the process)</b></summary>
 
 <br/>
 
@@ -222,46 +319,39 @@ flowchart LR
     H -. iterate .-> D
 ```
 
-For every serious project, I try to answer four questions:
-
-1. **What did I study?** The problem, existing approaches and their limitations.
-2. **Why this architecture?** Which trade-offs were considered.
-3. **What did I actually build?** How data flows and what happens when something fails.
-4. **What did I validate?** Which tests and metrics exist, and what is still just a prototype.
+Four questions for every serious project: **What did I study? Why this architecture? What did I actually build? What did I validate?**
 
 </details>
 
 <details>
-<summary><b>▶ Engineering principles (expand)</b></summary>
+<summary><b>▶ The five house rules</b></summary>
 
 <br/>
 
-1. **Understand before automating.** AI should accelerate engineering, not replace understanding.
-2. **Research before implementing.** Know the problem and existing approaches first.
-3. **Validate before claiming.** Experiments, demos, measured results and production systems are different things.
-4. **Design for failure.** Real systems fail; good engineering plans for errors and edge cases.
-5. **Build to learn.** A serious prototype is an experiment that produces technical understanding.
+1. **Understand before automating.** AI should speed up engineering, not replace understanding.
+2. **Research before implementing.**
+3. **Validate before claiming.** Experiment, demo, measured result and production are different things.
+4. **Design for failure.** Real systems break.
+5. **Build to learn.** A serious prototype is an experiment that produces understanding.
 
 </details>
 
 <details>
-<summary><b>▶ Current focus roadmap (expand)</b></summary>
+<summary><b>▶ Current campaign roadmap</b></summary>
 
 <br/>
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
 flowchart LR
-    A[DSA] --> B[Java Fundamentals] --> C[Backend] --> D[Databases] --> E[System Design] --> F[AI / ML Systems]
+    A[DSA] --> B[Java] --> C[Backend] --> D[Databases] --> E[System Design] --> F[AI / ML Systems]
 ```
-
-The goal is not to learn technologies in isolation, but to understand how they work together inside reliable software systems.
 
 </details>
 
 ---
 
-# `> github_telemetry`
+# `> telemetry`
 
 <div align="center">
 
@@ -295,7 +385,7 @@ The goal is not to learn technologies in isolation, but to understand how they w
 
 </details>
 
-<!-- OPTIONAL: Snake animation (needs a GitHub Action)
+<!-- OPTIONAL: Snake animation (needs the Platane/snk GitHub Action)
 <div align="center">
   <img src="https://raw.githubusercontent.com/tarunkkumarsahu/tarunkkumarsahu/output/github-snake-dark.svg" width="100%" alt="snake"/>
 </div>
@@ -303,26 +393,24 @@ The goal is not to learn technologies in isolation, but to understand how they w
 
 ---
 
-# `> beyond_code`
-
-I enjoy projects where **software leaves the screen and interacts with the real world**: robotics, IoT, computer vision, environmental intelligence, hackathons and open-ended experiments.
-
-Some experiments become products. Some stay prototypes. Some simply answer a technical question. All three are valuable if they produce genuine engineering understanding.
-
----
-
-# `> easter_egg`
+# `> secret_level`
 
 ```console
+tarun@github:~$ ls -a ~/hidden
+.konami_code   .coffee_dependency   .todo_never_ending
+
 tarun@github:~$ sudo hire tarun
 [sudo] password for recruiter: ********
-Access granted. ✔
-Opening: mailto:tarunkumarsahu354@gmail.com ...
+Access granted. ✔  Opening: mailto:tarunkumarsahu354@gmail.com ...
+
+tarun@github:~$ fortune
+"Some experiments become products. Some stay prototypes.
+ Some just answer a technical question. All three count."
 ```
 
 ---
 
-# `> connect`
+# `> multiplayer`
 
 <div align="center">
 
@@ -334,6 +422,7 @@ Opening: mailto:tarunkumarsahu354@gmail.com ...
 <br/><br/>
 
 ### `< Research. Understand. Build. Validate. />`
+**GAME NOT OVER. CONTINUE? [ Y ]**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,55:0F172A,100:020617"/>
 
