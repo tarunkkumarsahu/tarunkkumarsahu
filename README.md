@@ -33,16 +33,19 @@
 
 # `> character_sheet`
 
-```text
+<table>
+<tr>
+<td width="58%" valign="top">
+<pre>
 ╔══════════════════════════════════════════════════════╗
 ║  NAME    : Tarun Kumar Sahu                          ║
-║  CLASS   : Builder  (AI Engineer / Roboticist hybrid)║
+║  CLASS   : Builder (AI Engineer / Roboticist hybrid) ║
 ║  LEVEL   : CS Student — grinding                     ║
 ║  GUILD   : AI Tinkerers · Hackathon circuit          ║
 ║  MOTTO   : Understand deeply. Build practically.     ║
 ║            Validate honestly.                        ║
 ╠══════════════════════════════════════════════════════╣
-║  STATS  (self-rated, updated as I level up)          ║
+║  STATS                                               ║
 ║                                                      ║
 ║  AGENTIC AI      ████████░░  8/10                    ║
 ║  PYTHON          ████████░░  8/10                    ║
@@ -53,9 +56,30 @@
 ║  BACKEND         █████░░░░░  5/10  ← leveling up     ║
 ║  SYSTEM DESIGN   ███░░░░░░░  3/10  ← next boss       ║
 ╚══════════════════════════════════════════════════════╝
-```
+</pre>
+</td>
+<td width="42%" valign="top">
+<h3><code>&gt; quick_access</code></h3>
+<pre>
+LIVE PORTFOLIO : ONLINE
+CURRENT QUEST  : JARVIS OS
+FOCUS          : AI · BACKEND · ROBOTICS
+STATUS         : BUILDING / OPEN TO COLLAB
+MODE           : SHIP → LEARN → ITERATE
+</pre>
+<p align="center">
+<a href="https://tarun-portfolio-zeta-teal.vercel.app/"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-OPEN-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617"/></a>
+<br/>
+<a href="https://github.com/tarunkkumarsahu"><img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/tarunkkumarsahu"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<br/>
+<a href="https://tarun-portfolio-zeta-teal.vercel.app/resume/Tarun-Kumar-Sahu-Resume.pdf"><img src="https://img.shields.io/badge/RESUME-VIEW-00B8D4?style=flat-square&logo=readthedocs&logoColor=white"/></a>
+</p>
+</td>
+</tr>
+</table>
 
-<sub>Stats are placeholders. Edit them to match reality; honesty is the whole point of this profile.</sub>
+<sub>Stats are self-rated and updated as I level up. Honesty is the whole point of this profile.</sub>
 
 ---
 
@@ -357,7 +381,6 @@ flowchart LR
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tarunkkumarsahu&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=00E5FF&text_color=C9F7FF&ring_color=00E5FF" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkkumarsahu&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=C9F7FF" />
-
 <img width="70%" src="https://streak-stats.demolab.com?user=tarunkkumarsahu&hide_border=true&background=020617&stroke=0E7490&ring=00E5FF&fire=00E5FF&currStreakNum=E6FBFF&sideNums=E6FBFF&currStreakLabel=00E5FF&sideLabels=67E8F9&dates=64748B" />
 
 </div>
@@ -414,9 +437,9 @@ tarun@github:~$ fortune
 
 <div align="center">
 
-<a href="https://linkedin.com/in/tarunnsahuu"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/tarunkkumarsahu"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/tarunkkumarsahu"><img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/tarunkkumarsahu/tarun-portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617"/></a>
+<a href="https://tarun-portfolio-zeta-teal.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617"/></a>
 <a href="mailto:tarunkumarsahu354@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
