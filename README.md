@@ -2,96 +2,61 @@
               TARUN.OS  //  PLAYER PROFILE  //  v2026
 ========================================================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020617,50:0F172A,100:00E5FF&text=TARUN%20KUMAR%20SAHU&fontColor=E6FBFF&fontSize=46&fontAlignY=38&desc=PLAYER%20ONE%20%E2%80%A2%20AI%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20ROBOTICS&descAlignY=62&descSize=16&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020617,50:0F172A,100:00E5FF&text=TARUN%20KUMAR%20SAHU&fontColor=E6FBFF&fontSize=46&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20AI%20%E2%80%A2%20BACKEND%20%E2%80%A2%20ROBOTICS&descAlignY=62&descSize=16&animation=twinkling"/>
+
+# Tarun Kumar Sahu
+
+**Software Engineer · AI & Backend Developer · Robotics & Computer Vision Builder**
+
+This is the official GitHub profile of **Tarun Kumar Sahu** — **[@tarunkkumarsahu](https://github.com/tarunkkumarsahu)**. I build experimental and production-oriented software across **AI systems, backend engineering, Rust, computer vision, robotics, connected hardware and developer tooling**.
+
+[Portfolio](https://tarun-portfolio-zeta-teal.vercel.app/) · [GitHub](https://github.com/tarunkkumarsahu) · [LinkedIn](https://linkedin.com/in/tarunkkumarsahu) · [Resume](https://tarun-portfolio-zeta-teal.vercel.app/resume/Tarun-Kumar-Sahu-Resume.pdf)
 
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=%5B+OK+%5D+Booting+tarun.os+...;%5B+OK+%5D+Loading+agents+%E2%80%A2+robotics+%E2%80%A2+backend+...;%5B+OK+%5D+Mounting+quest+log+...;%5B+WARN+%5D+Coffee+level+low;PLAYER+ONE+READY.+PRESS+START."
-  alt="Boot sequence"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+AI+systems+that+do+real+work.;Backend+%E2%86%92+Robotics+%E2%86%92+Computer+Vision+%E2%86%92+Agents.;Research.+Understand.+Build.+Validate.;PLAYER+ONE+READY.+PRESS+START."
+  alt="Tarun Kumar Sahu — software engineering, AI, backend and robotics"
 />
 
 <br/>
 
-<a href="https://github.com/tarunkkumarsahu"><img src="https://komarev.com/ghpvc/?username=tarunkkumarsahu&label=PLAYERS+VISITED&color=00B8D4&style=for-the-badge" /></a>
-<a href="https://github.com/tarunkkumarsahu?tab=followers"><img src="https://img.shields.io/github/followers/tarunkkumarsahu?label=ALLIES&style=for-the-badge&color=00B8D4&labelColor=020617" /></a>
-<img src="https://img.shields.io/badge/STATUS-IN_A_QUEST-00E5FF?style=for-the-badge&labelColor=020617"/>
+<a href="https://github.com/tarunkkumarsahu"><img src="https://komarev.com/ghpvc/?username=tarunkkumarsahu&label=PROFILE+VIEWS&color=00B8D4&style=for-the-badge" /></a>
+<a href="https://github.com/tarunkkumarsahu?tab=followers"><img src="https://img.shields.io/github/followers/tarunkkumarsahu?label=FOLLOWERS&style=for-the-badge&color=00B8D4&labelColor=020617" /></a>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00E5FF?style=for-the-badge&labelColor=020617"/>
 
 </div>
+
+---
+
+# `> identity`
 
 ```text
-   ████████╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗
-   ╚══██╔══╝██╔══██╗██╔══██╗██║   ██║████╗  ██║
-      ██║   ███████║██████╔╝██║   ██║██╔██╗ ██║
-      ██║   ██╔══██║██╔══██╗██║   ██║██║╚██╗██║
-      ██║   ██║  ██║██║  ██║╚██████╔╝██║ ╚████║
-      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-              >> INSERT COIN TO CONTINUE <<
+NAME          : Tarun Kumar Sahu
+GITHUB        : @tarunkkumarsahu
+ROLE          : Software Engineer / AI + Backend Builder
+FOCUS         : AI Systems · Backend · Robotics · Computer Vision
+LANGUAGES     : Python · Rust · Java · C/C++ · TypeScript
+CURRENT MODE  : Build → Test → Document → Improve
+LOCATION      : India
 ```
 
----
+I care about one engineering rule more than hype:
 
-# `> character_sheet`
-
-<table>
-<tr>
-<td width="58%" valign="top">
-<pre>
-╔══════════════════════════════════════════════════════╗
-║  NAME    : Tarun Kumar Sahu                          ║
-║  CLASS   : Builder (AI Engineer / Roboticist hybrid) ║
-║  LEVEL   : CS Student — grinding                     ║
-║  GUILD   : AI Tinkerers · Hackathon circuit          ║
-║  MOTTO   : Understand deeply. Build practically.     ║
-║            Validate honestly.                        ║
-╠══════════════════════════════════════════════════════╣
-║  STATS                                               ║
-║                                                      ║
-║  AGENTIC AI      ████████░░  8/10                    ║
-║  PYTHON          ████████░░  8/10                    ║
-║  ROBOTICS / IoT  ███████░░░  7/10                    ║
-║  COMPUTER VISION ███████░░░  7/10                    ║
-║  JAVA            █████░░░░░  5/10  ← leveling up     ║
-║  DSA             █████░░░░░  5/10  ← leveling up     ║
-║  BACKEND         █████░░░░░  5/10  ← leveling up     ║
-║  SYSTEM DESIGN   ███░░░░░░░  3/10  ← next boss       ║
-╚══════════════════════════════════════════════════════╝
-</pre>
-</td>
-<td width="42%" valign="top">
-<h3><code>&gt; quick_access</code></h3>
-<pre>
-LIVE PORTFOLIO : ONLINE
-CURRENT QUEST  : JARVIS OS
-FOCUS          : AI · BACKEND · ROBOTICS
-STATUS         : BUILDING / OPEN TO COLLAB
-MODE           : SHIP → LEARN → ITERATE
-</pre>
-<p align="center">
-<a href="https://tarun-portfolio-zeta-teal.vercel.app/"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-OPEN-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617"/></a>
-<br/>
-<a href="https://github.com/tarunkkumarsahu"><img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/tarunkkumarsahu"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<br/>
-<a href="https://tarun-portfolio-zeta-teal.vercel.app/resume/Tarun-Kumar-Sahu-Resume.pdf"><img src="https://img.shields.io/badge/RESUME-VIEW-00B8D4?style=flat-square&logo=readthedocs&logoColor=white"/></a>
-</p>
-</td>
-</tr>
-</table>
-
-<sub>Stats are self-rated and updated as I level up. Honesty is the whole point of this profile.</sub>
+> **Researched ≠ Implemented · Implemented ≠ Validated · Demo ≠ Production**
 
 ---
 
-# `> now_playing`
+# `> active_systems`
 
-<div align="center">
-
-| 🔨 ACTIVE QUEST | 📖 TRAINING | 🚢 LAST LOOT | 🎯 NEXT UNLOCK |
-|:---:|:---:|:---:|:---:|
-| JARVIS OS | Java · DSA · Spring Boot | `<< edit: latest thing you shipped >>` | Backend + System Design |
-
-</div>
+| Project | What it is | Current signal |
+|---|---|---|
+| **[EXOCROTEX](https://github.com/tarunkkumarsahu/EXOCROTEX)** | Rust-first cognitive extension with persistent memory, evidence state, Tauri desktop and local AI | Rust + Windows desktop CI passing |
+| **[FreshFusion](https://github.com/tarunkkumarsahu/Fresh-Fusion-)** | Multimodal fruit-quality investigation using vision, ESP32 sensing, evidence validation and local AI | Full-stack experimental system; validation ongoing |
+| **[RAKSHA Grid](https://github.com/tarunkkumarsahu/raksha-grid)** | Disaster-response intelligence for incident routing, shelters, GIS and coordination | Backend release/integration stage |
+| **[AWR-Bot](https://github.com/tarunkkumarsahu/AWR-Bot-)** | ROS 2 warehouse AMR with mission planning, Nav2, Gazebo and modular payload workflow | End-to-end mission demonstrated; broader validation ongoing |
+| **[AgriNexus ProofOS](https://github.com/tarunkkumarsahu/agrinexus-ai)** | Evidence-driven agriculture decision prototype across web, Android scaffold and FastAPI | Working web/backend prototype |
+| **[JARVIS OS](https://github.com/tarunkkumarsahu/Jarvis-OS)** | Personal AI operating layer with memory, tools, providers and desktop interaction | Active early-alpha R&D |
 
 ---
 
@@ -100,221 +65,69 @@ MODE           : SHIP → LEARN → ITERATE
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF','secondaryColor':'#020617','tertiaryColor':'#020617'}}}%%
 mindmap
-  root((TARUN))
-    AI
-      Agentic Systems
-      Multi-Agent
+  root((TARUN KUMAR SAHU))
+    AI Systems
+      Agentic AI
+      Local AI
       Computer Vision
-      Generative AI
-    Software
-      Java
-      Spring Boot
+      Evidence Validation
+    Backend
+      Python
+      FastAPI
       SQL
+      APIs
       System Design
-    Hardware
+    Systems
+      Rust
+      Tauri
+      Desktop Apps
+      Tooling
+    Robotics
+      ROS 2
+      Nav2
       ESP32
       Sensors
-      Robotics
-      Edge AI
-    Toolkit
-      Git
-      Docker
-      Linux
+      Embedded Control
+    Web
       React
+      Next.js
+      TypeScript
+      Three.js
 ```
 
 ---
 
-# `> the_honesty_ladder`
+# `> engineering_principles`
 
-Every quest gets rated on the ladder below. It's my one house rule.
-
-```text
-  🔍 RESEARCHED  →  ⚙️ IMPLEMENTED  →  📏 VALIDATED  →  🚀 PRODUCTION
-    "I read it"      "It runs"        "I measured it"   "People rely on it"
-```
-
-> Researched ≠ Implemented · Implemented ≠ Validated · Demo ≠ Production
+1. **Understand before automating.** AI should accelerate engineering, not replace understanding.
+2. **Research before implementation.** Existing approaches deserve study before reinvention.
+3. **Validate before claiming.** A working demo is not the same as a measured system.
+4. **Design for failure.** Real systems fail at boundaries, integrations and assumptions.
+5. **Document limitations.** Honest constraints make technical work more credible.
+6. **Ship, learn, iterate.** Progress should leave working artifacts behind.
 
 ---
 
-# `> quest_log`
-
-## 📜 QUEST 01 · RELIAI
+# `> current_campaign`
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│ MISSION BRIEFING            CLEARANCE: TOP 10 🏆     │
-│ Event : AI Tinkerers × Michelin Harness Engineering  │
-│ Goal  : Investigate an industrial incident WITHOUT   │
-│         trusting a single LLM's opinion              │
-└──────────────────────────────────────────────────────┘
+DSA → Java → Backend Engineering → Databases → System Design
+                                  ↓
+                         AI / Robotics Systems
 ```
 
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
-flowchart LR
-    A[Industrial Incident] --> B[Specialist Agents]
-    B --> C[Independent Analysis]
-    C --> D{Adversarial Critic}
-    D -- rejects --> B
-    D -- approves --> E[Confidence Score]
-    E --> F([Human Approval])
-```
-
-```text
-🔍 RESEARCHED   ██████████
-⚙️ IMPLEMENTED  ████████░░
-📏 VALIDATED    ████░░░░░░
-🚀 PRODUCTION   ░░░░░░░░░░
-```
-
-**⚔️ Weapons:** multi-agent orchestration · critic-based validation · human-in-the-loop
-**💀 Boss fight (biggest failure):** `<< edit: what went wrong and what you learned >>`
-
----
-
-## 📜 QUEST 02 · CLIMATE DIGITAL TWIN
-
-```text
-┌──────────────────────────────────────────────────────┐
-│ MISSION BRIEFING          EVENT: Bharatiya Antariksh │
-│ Goal : Turn raw environmental data into a living,    │
-│        explorable model of a changing planet         │
-└──────────────────────────────────────────────────────┘
-```
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
-flowchart TD
-    A[(Environmental Data)] --> B[Ingestion & Processing]
-    B --> C[AI Analysis]
-    C --> D[Digital Twin Model]
-    D --> E[Interactive Visualization]
-    E --> F([Insights for Decisions])
-    E -. user explores .-> D
-```
-
-```text
-🔍 RESEARCHED   █████████░
-⚙️ IMPLEMENTED  ███████░░░
-📏 VALIDATED    ███░░░░░░░
-🚀 PRODUCTION   ░░░░░░░░░░
-```
-
-**⚔️ Weapons:** data pipelines · AI-assisted analysis · visualization
-**💀 Boss fight:** `<< edit >>`
-
----
-
-## 📜 QUEST 03 · AWR-BOT
-
-[![View](https://img.shields.io/badge/OPEN_QUEST_FILE-AWR_BOT-00E5FF?style=flat-square&labelColor=020617)](https://github.com/tarunkkumarsahu/AWR-Bot-)
-
-```text
-┌──────────────────────────────────────────────────────┐
-│ MISSION BRIEFING                     EVENT: SIH      │
-│ Goal : Make software decisions move real metal, and  │
-│        survive contact with the physical world       │
-└──────────────────────────────────────────────────────┘
-```
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
-flowchart LR
-    S[Sensors] --> P[Data Processing]
-    P --> L[Control Logic]
-    L --> M[Embedded System]
-    M --> A[Actuators]
-    A --> W((Physical World))
-    W -- feedback --> S
-```
-
-```text
-🔍 RESEARCHED   ████████░░
-⚙️ IMPLEMENTED  ███████░░░
-📏 VALIDATED    ███░░░░░░░
-🚀 PRODUCTION   ░░░░░░░░░░
-```
-
-**⚔️ Weapons:** sensor integration · embedded control · hardware-software comms
-**💀 Boss fight:** `<< edit: the nastiest sensor or hardware bug >>`
-
----
-
-## 📜 QUEST 04 · JARVIS OS  ·  `ONGOING`
-
-[![View](https://img.shields.io/badge/OPEN_QUEST_FILE-JARVIS_OS-00E5FF?style=flat-square&labelColor=020617)](https://github.com/tarunkkumarsahu/Jarvis-OS)
-
-```text
-┌──────────────────────────────────────────────────────┐
-│ MISSION BRIEFING                  TYPE: LONG CAMPAIGN│
-│ Goal : A personal AI with memory, tools, desktop     │
-│        control and voice. Not just a chatbot.        │
-└──────────────────────────────────────────────────────┘
-```
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
-flowchart TD
-    U([User]) --> J[JARVIS Core]
-    J <--> M[(Memory / Context)]
-    J --> R[Reasoning]
-    R --> AG[Agents]
-    AG --> T1[File Intelligence]
-    AG --> T2[Desktop Control]
-    AG --> T3[Automation]
-    T1 & T2 & T3 --> X[Execution]
-    X --> RES([Result])
-```
-
-```text
-🔍 RESEARCHED   █████████░
-⚙️ IMPLEMENTED  ██████░░░░
-📏 VALIDATED    ██░░░░░░░░
-🚀 PRODUCTION   ░░░░░░░░░░   ← intentionally R&D, not overclaimed
-```
-
-**⚔️ Weapons:** agent orchestration · memory architecture · tool execution
-**💀 Boss fight:** `<< edit >>`
+Alongside fundamentals, I keep building substantial systems so theory gets tested against real implementation constraints.
 
 ---
 
 # `> achievements`
 
-<div align="center">
-
-| | Achievement | Unlocked by |
-|:---:|:---|:---|
-| 🏆 | **Top 10 Finisher** | RELIAI at the AI Tinkerers × Michelin hackathon |
-| 🛰️ | **Space Cadet** | Climate Digital Twin at Bharatiya Antariksh Hackathon |
-| 🦾 | **Metal Mover** | AWR-Bot: software that actually moves hardware |
-| 🧪 | **Mad Scientist** | JARVIS OS: still experimenting |
-| 🔒 | **???** | `<< add your next achievement >>` |
-
-</div>
-
----
-
-# `> patch_notes`
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF','cScale0':'#0F172A','cScale1':'#0F172A','cScale2':'#0F172A'}}}%%
-timeline
-    title Tarun.OS release history
-    section Foundations
-        v0.x : Started with Python and curiosity
-             : First experiments with sensors and microcontrollers
-    section Hackathon era
-        v1.0 : AWR-Bot at SIH
-        v1.1 : Climate Digital Twin at Bharatiya Antariksh
-        v1.2 : RELIAI, Top 10 at AI Tinkerers x Michelin
-    section Now
-        v2.0 : Java, DSA and backend fundamentals
-             : JARVIS OS keeps evolving
-```
-
-<sub>Edit the entries with real dates and milestones.</sub>
+| Achievement | Context |
+|---|---|
+| **Top 10 Finisher** | RELIAI — AI Tinkerers × Michelin Harness Engineering |
+| **Climate Digital Twin** | Bharatiya Antariksh Hackathon |
+| **Warehouse AMR** | SIH26112 / AWR-Bot engineering track |
+| **JARVIS OS** | Long-term personal AI systems R&D |
 
 ---
 
@@ -322,56 +135,9 @@ timeline
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,spring,react,postgres,mysql,pytorch,opencv,docker,linux,git,github,arduino,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=rust,java,python,cpp,c,ts,js,spring,react,nextjs,postgres,mysql,pytorch,opencv,docker,linux,git,github,arduino,vscode,idea" alt="Tarun Kumar Sahu technology stack" />
 
 </div>
-
----
-
-# `> lore`
-
-<details>
-<summary><b>▶ How I build (the process)</b></summary>
-
-<br/>
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
-flowchart LR
-    A[Problem] --> B[Research] --> C[Study Existing Approaches] --> D[Design]
-    D --> E[Implement] --> F[Test & Debug] --> G[Evaluate] --> H[Document Limitations]
-    H -. iterate .-> D
-```
-
-Four questions for every serious project: **What did I study? Why this architecture? What did I actually build? What did I validate?**
-
-</details>
-
-<details>
-<summary><b>▶ The five house rules</b></summary>
-
-<br/>
-
-1. **Understand before automating.** AI should speed up engineering, not replace understanding.
-2. **Research before implementing.**
-3. **Validate before claiming.** Experiment, demo, measured result and production are different things.
-4. **Design for failure.** Real systems break.
-5. **Build to learn.** A serious prototype is an experiment that produces understanding.
-
-</details>
-
-<details>
-<summary><b>▶ Current campaign roadmap</b></summary>
-
-<br/>
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0F172A','primaryBorderColor':'#00E5FF','primaryTextColor':'#E6FBFF','lineColor':'#00E5FF'}}}%%
-flowchart LR
-    A[DSA] --> B[Java] --> C[Backend] --> D[Databases] --> E[System Design] --> F[AI / ML Systems]
-```
-
-</details>
 
 ---
 
@@ -379,73 +145,51 @@ flowchart LR
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tarunkkumarsahu&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=00E5FF&text_color=C9F7FF&ring_color=00E5FF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkkumarsahu&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=C9F7FF" />
-<img width="70%" src="https://streak-stats.demolab.com?user=tarunkkumarsahu&hide_border=true&background=020617&stroke=0E7490&ring=00E5FF&fire=00E5FF&currStreakNum=E6FBFF&sideNums=E6FBFF&currStreakLabel=00E5FF&sideLabels=67E8F9&dates=64748B" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tarunkkumarsahu&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=00E5FF&text_color=C9F7FF&ring_color=00E5FF" alt="Tarun Kumar Sahu GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkkumarsahu&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=C9F7FF" alt="Tarun Kumar Sahu GitHub languages" />
+<img width="70%" src="https://streak-stats.demolab.com?user=tarunkkumarsahu&hide_border=true&background=020617&stroke=0E7490&ring=00E5FF&fire=00E5FF&currStreakNum=E6FBFF&sideNums=E6FBFF&currStreakLabel=00E5FF&sideLabels=67E8F9&dates=64748B" alt="Tarun Kumar Sahu GitHub contribution streak" />
 
 </div>
 
 <details>
-<summary><b>▶ Commit activity (last 30 days)</b></summary>
+<summary><b>▶ Commit activity</b></summary>
 
 <div align="center">
 
 <br/>
 
-**All repositories**
+**All repositories — last 30 days**
 
-<img width="100%" src="https://raw.githubusercontent.com/tarunkkumarsahu/tarunkkumarsahu/main/assets/all-repos-commits.svg" alt="Daily authored commit counts across public repositories over the last 30 days"/>
+<img width="100%" src="https://raw.githubusercontent.com/tarunkkumarsahu/tarunkkumarsahu/main/assets/all-repos-commits.svg" alt="Tarun Kumar Sahu daily authored commit counts across public repositories"/>
 
 **Structured-DSA**
 
 <a href="https://github.com/tarunkkumarsahu/Structured-DSA">
-  <img width="100%" src="https://raw.githubusercontent.com/tarunkkumarsahu/tarunkkumarsahu/main/assets/dsa-commits.svg" alt="Daily authored commit counts in Structured-DSA over the last 30 days"/>
+  <img width="100%" src="https://raw.githubusercontent.com/tarunkkumarsahu/tarunkkumarsahu/main/assets/dsa-commits.svg" alt="Tarun Kumar Sahu Structured DSA commit activity"/>
 </a>
 
-<sub>Last 30 days · UTC · Refreshed daily</sub>
+<sub>UTC · refreshed automatically</sub>
 
 </div>
 
 </details>
 
-<!-- OPTIONAL: Snake animation (needs the Platane/snk GitHub Action)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tarunkkumarsahu/tarunkkumarsahu/output/github-snake-dark.svg" width="100%" alt="snake"/>
-</div>
--->
-
 ---
 
-# `> secret_level`
-
-```console
-tarun@github:~$ ls -a ~/hidden
-.konami_code   .coffee_dependency   .todo_never_ending
-
-tarun@github:~$ sudo hire tarun
-[sudo] password for recruiter: ********
-Access granted. ✔  Opening: mailto:tarunkumarsahu354@gmail.com ...
-
-tarun@github:~$ fortune
-"Some experiments become products. Some stay prototypes.
- Some just answer a technical question. All three count."
-```
-
----
-
-# `> multiplayer`
+# `> connect`
 
 <div align="center">
 
-<a href="https://linkedin.com/in/tarunkkumarsahu"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/tarunkkumarsahu"><img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://tarun-portfolio-zeta-teal.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617"/></a>
+<a href="https://linkedin.com/in/tarunkkumarsahu"><img src="https://img.shields.io/badge/LINKEDIN-Tarun_Kumar_Sahu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/tarunkkumarsahu"><img src="https://img.shields.io/badge/GITHUB-tarunkkumarsahu-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://tarun-portfolio-zeta-teal.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Tarun_Kumar_Sahu-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617"/></a>
 <a href="mailto:tarunkumarsahu354@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
 ### `< Research. Understand. Build. Validate. />`
-**GAME NOT OVER. CONTINUE? [ Y ]**
+
+**Tarun Kumar Sahu · @tarunkkumarsahu**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,55:0F172A,100:020617"/>
 
