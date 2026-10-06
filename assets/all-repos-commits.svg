@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280">
 <rect width="100%" height="100%" rx="16" fill="#020617"/>
 <text x="48" y="32" fill="#00E5FF" font-family="monospace" font-size="17" font-weight="bold">ALL REPOSITORIES // DAILY COMMITS</text>
-<text x="852" y="32" fill="#67E8F9" text-anchor="end" font-family="monospace" font-size="12">30D TOTAL: 838</text>
+<text x="852" y="32" fill="#67E8F9" text-anchor="end" font-family="monospace" font-size="12">30D TOTAL: 839</text>
 <line x1="48" y1="225.0" x2="876" y2="225.0" stroke="#173047" stroke-dasharray="4 5"/>
 <text x="36" y="229.0" text-anchor="end" fill="#67E8F9" font-size="11">0</text>
 <line x1="48" y1="145.0" x2="876" y2="145.0" stroke="#173047" stroke-dasharray="4 5"/>
 <text x="36" y="149.0" text-anchor="end" fill="#67E8F9" font-size="11">76</text>
 <line x1="48" y1="65.0" x2="876" y2="65.0" stroke="#173047" stroke-dasharray="4 5"/>
 <text x="36" y="69.0" text-anchor="end" fill="#67E8F9" font-size="11">152</text>
-<polyline points="48.0,166.1 76.6,121.8 105.1,173.4 133.7,200.8 162.2,147.1 190.8,222.9 219.3,160.8 247.9,223.9 276.4,223.9 305.0,223.9 333.5,223.9 362.1,207.1 390.6,161.8 419.2,221.8 447.7,218.7 476.3,210.3 504.8,212.4 533.4,173.4 561.9,212.4 590.5,222.9 619.0,218.7 647.6,208.2 676.1,223.9 704.7,223.9 733.2,193.4 761.8,65.0 790.3,206.1 818.9,154.5 847.4,220.8 876.0,223.9" fill="none" stroke="#00E5FF" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="48.0,166.1 76.6,121.8 105.1,173.4 133.7,200.8 162.2,147.1 190.8,222.9 219.3,160.8 247.9,223.9 276.4,223.9 305.0,223.9 333.5,223.9 362.1,207.1 390.6,161.8 419.2,221.8 447.7,218.7 476.3,210.3 504.8,212.4 533.4,173.4 561.9,212.4 590.5,222.9 619.0,218.7 647.6,208.2 676.1,223.9 704.7,223.9 733.2,193.4 761.8,65.0 790.3,206.1 818.9,154.5 847.4,220.8 876.0,222.9" fill="none" stroke="#00E5FF" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
 <circle cx="48.0" cy="166.1" r="3.5" fill="#00E5FF"/>
 <circle cx="76.6" cy="121.8" r="3.5" fill="#00E5FF"/>
 <circle cx="105.1" cy="173.4" r="3.5" fill="#00E5FF"/>
@@ -38,7 +38,7 @@
 <circle cx="790.3" cy="206.1" r="3.5" fill="#00E5FF"/>
 <circle cx="818.9" cy="154.5" r="3.5" fill="#00E5FF"/>
 <circle cx="847.4" cy="220.8" r="3.5" fill="#00E5FF"/>
-<circle cx="876.0" cy="223.9" r="3.5" fill="#00E5FF"/>
+<circle cx="876.0" cy="222.9" r="3.5" fill="#00E5FF"/>
 <text x="48.0" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">07 Sep</text>
 <text x="190.8" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">12 Sep</text>
 <text x="333.5" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">17 Sep</text>
