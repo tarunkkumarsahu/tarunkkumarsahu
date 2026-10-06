@@ -64,7 +64,7 @@ Long-term personal AI systems project exploring model abstraction, memory, tool 
 
 ## Current focus
 
-I am strengthening **Java, DSA, backend engineering, databases and system design** while continuing to build larger AI and robotics systems where those fundamentals get tested against real integration problems.
+I am strengthening **Java, DSA, backend engineering, databases and system design** while continuing to build larger AI and robotics systems. I am also studying **web motion, interaction design and modern frontend animation systems** through practical recreations and experiments.
 
 ---
 
