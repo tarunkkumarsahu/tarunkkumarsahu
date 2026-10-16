@@ -72,6 +72,7 @@ MODE           : SHIP → LEARN → ITERATE
 <br/>
 <a href="https://github.com/tarunkkumarsahu"><img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/tarunkkumarsahu"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.researchgate.net/profile/Tarun-Sahu-5"><img src="https://img.shields.io/badge/RESEARCHGATE-PROFILE-00CCBB?style=flat-square&labelColor=020617"/></a>
 <br/>
 <a href="https://tarun-portfolio-zeta-teal.vercel.app/resume/Tarun-Kumar-Sahu-Resume.pdf"><img src="https://img.shields.io/badge/RESUME-VIEW-00B8D4?style=flat-square&logo=readthedocs&logoColor=white"/></a>
 </p>
