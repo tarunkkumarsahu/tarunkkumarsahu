@@ -39,11 +39,11 @@
 <circle cx="818.9" cy="225.0" r="3.5" fill="#00E5FF"/>
 <circle cx="847.4" cy="225.0" r="3.5" fill="#00E5FF"/>
 <circle cx="876.0" cy="225.0" r="3.5" fill="#00E5FF"/>
-<text x="48.0" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">01 Oct</text>
-<text x="190.8" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">06 Oct</text>
-<text x="333.5" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">11 Oct</text>
-<text x="476.3" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">16 Oct</text>
-<text x="619.0" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">21 Oct</text>
-<text x="761.8" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">26 Oct</text>
+<text x="48.0" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">02 Oct</text>
+<text x="190.8" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">07 Oct</text>
+<text x="333.5" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">12 Oct</text>
+<text x="476.3" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">17 Oct</text>
+<text x="619.0" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">22 Oct</text>
+<text x="761.8" y="258" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">27 Oct</text>
 <text x="48" y="269" fill="#64748B" font-family="monospace" font-size="10">Public owned repos; authored commits; UTC dates</text>
 </svg>
